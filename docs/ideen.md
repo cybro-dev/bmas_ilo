@@ -6,6 +6,24 @@ Stand. Wird etwas übernommen, zieht es in die Fachdatei um.
 
 ---
 
+## Referenzen — deutsche Rapper-Dokus (Stand 05.11.2026)
+
+Lukas sichtet Referenzen für Look und Erzählhaltung. Alle lang (Serie oder 90 min), also nur
+als Stil-Referenz, nicht als Format-Vorlage für drei Minuten.
+
+| Titel | Wo | Seit | Bemerkung |
+| --- | --- | --- | --- |
+| **Babo – Die Haftbefehl-Story** | Netflix | 28.10.2025 | Regie Juan Moreno, Sinan Sevinç; Produktion Elyas M'Barek. Rohes, dunkles, sehr nahes Porträt. Platz 1 in DE/AT/CH |
+| **Apache 207** (Prime-Doku) | Prime Video | 23.09.2025 | Die „andere große" kurz vor Babo. Mannheim, Herkunft, Aufstieg |
+| **GZUZ – Licht & Schatten** | Prime Video | 01.08.2025 | Hamburg, Haft, Exzess, Familienvater |
+| **Barbara – Becoming Shirin David** | Netflix | 13.03.2026 | Kontrollierte Nähe; Shirin David hat sich später selbst davon distanziert |
+| **XATAR – Ein Leben ist nicht genug** | ARD-Mediathek | 01.05.2026 | Dreiteiler, posthum, Bonner Plattenbau bis Goldraub |
+| ZDF-Doku-Serie mit OG Keemo und Funkvater Frank | ZDF | 06/2026 | Produzenten-Künstler-Beziehung — thematisch näher an „Beifahrersitz" als die Star-Porträts |
+
+Was für uns daraus zu holen ist: Babo zeigt, wie viel Nähe eine Handkamera im Auto und in
+Hinterzimmern erzeugt — genau unser Set. Pana wird eher an Babo und Apache denken, wenn er
+„hochwertig" sagt. Der Unterschied bleibt: wir erzählen keinen Absturz, sondern eine Beziehung.
+
 ## Zum Konzept
 
 - **Der Führerschein als Requisite.** Er ist der rote Faden, taucht im Konzept aber nur als
