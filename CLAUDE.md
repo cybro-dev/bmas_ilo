@@ -18,6 +18,7 @@ Getrennt danach, **wodurch sich etwas ändert** — damit die Doku nicht verrott
 | **Kontext** | selten — Rahmen des Projekts, Wer-ist-wer, Namensfallen | `CONTEXT.md` |
 | **Fakten** | die Realität sich ändert (Termine, Orte, Inhalte, Freigaben) | `docs/*.md` |
 | **Offene Punkte** | sie beantwortet werden | `docs/offene-punkte.md` |
+| **Ideen** | Claude oder Lukas welche hat — ungeprüft, nicht abgestimmt | `docs/ideen.md` |
 | **Korrespondenz** | **gar nicht** — Beleg zum Stichtag | `docs/korrespondenz/` |
 
 **Regel:** Eine Information lebt an *genau einer* Stelle. Übersichten verlinken, sie
@@ -29,23 +30,25 @@ eine Archivliste.
 1. **Beleg ablegen:** Mail / Transkript / PDF nach `docs/korrespondenz/` bzw. `anlagen/`,
    Dateiname `JJJJ-MM-TT-absender-thema.md`. Roh-Transkripte unverändert als eigene
    `…-transkript.md` speichern, daneben ein bereinigtes Protokoll. PDFs mit `pdftotext`
-   lesen.
+   lesen. **Mails selbst in Lukas' Gmail suchen** (`ilo 7araga`, `roccfilm`,
+   `neueshandeln`), nicht nur die Anhänge auswerten.
 2. **Extrahieren:** Was feststeht → Fachdatei. Was unklar ist → `offene-punkte.md`.
    Was den Rahmen betrifft → `CONTEXT.md`.
 3. **Index pflegen:** `docs/korrespondenz/README.md` und die Einstiegspunkte in
    `CONTEXT.md`.
-4. **Commit und Push** auf den Arbeitsbranch, damit die nächste Session den Stand hat.
+4. **Direkt auf `main` committen und pushen** — keine Branches, keine PRs (Lukas' Vorgabe).
 
-**To-dos und Zeiterfassung laufen in Lyfe** (Projekt „ilo 7araga (BMAS / ROCC)").
-`offene-punkte.md` hält die *inhaltlichen* Fragen und wer sie beantwortet; was Lukas
-selbst tun muss, zusätzlich als Lyfe-Task anlegen.
+**To-dos und Zeiterfassung laufen in Lyfe**, Projekt „ilo 7araga (BMAS / ROCC)", Task
+„Calls & Abstimmung" für Gesprächszeiten. `offene-punkte.md` hält die *inhaltlichen*
+Fragen und wer sie beantwortet; was Lukas selbst tun muss, zusätzlich als Lyfe-To-do.
 
 ## Konventionen
 
 - **Sprache der Doku: Deutsch. Der Film ist Deutsch.**
 - Datumsangaben absolut (`05.11.2026`), nie „übermorgen".
-- ⚠️ **Zwei Schäfers, Chris ≠ Christian, Elias = ilo 7araga.** Immer mit Nachnamen bzw.
-  eindeutig schreiben — siehe Namensfallen in `CONTEXT.md`.
+- ⚠️ **Zwei Schäfers, Chris ≠ Christian, Elias = ilo 7araga.** Immer eindeutig schreiben —
+  siehe Namensfallen in `CONTEXT.md`. Transkripte verhunzen die Namen zuverlässig
+  (Lesehilfe im jeweiligen Transkript).
 - **Northeim**, nicht Nordheim. **ilo 7araga** klein geschrieben.
 - Unbestätigtes als solches markieren (⚠️ oder „unbestätigt"), nicht als Fakt notieren.
 - Im Projekt nie das Wort „Werbung" verwenden — auch intern nicht, damit es nicht

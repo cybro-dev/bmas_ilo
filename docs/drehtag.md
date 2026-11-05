@@ -1,49 +1,78 @@
 # Drehtag
 
-**Noch nicht terminiert.** Ziel: ein Tag **bis 27.11.2026**, hängt von Elias ab. Vorgabe
-von Sascha Kummer: **ein einziger Drehtag.**
+**Noch nicht terminiert.** Ziel **KW 48, ab Di 24.11.2026** (KW 47 hat Elias einen
+Studiotermin in Stuttgart; Pana ist drei Wochen knapp, Elias flexibler). Pana nennt Daten,
+dann wird Florian gefragt, dann geht der Zeitplan an Sascha. **Ein einziger Drehtag.**
 
-Stand 05.11.2026 vor Auswertung des Calls — die offenen Logistikfragen stehen in
-[Offene Punkte](offene-punkte.md).
+**Drehort: Frankfurt am Main.** Elias' Studio ist dort, Northeim liegt 2–3 Stunden entfernt.
+Zuhause, Jobcenter und Fahrt werden in und um Frankfurt nachgestellt, Florian reist an.
 
----
-
-## Ablauf (Struktur)
-
-Folgt den vier Teilen des [Konzepts](konzept.md#der-film-in-vier-teilen):
-
-| Block | Ort | Was |
-| --- | --- | --- |
-| 1 | **Northeim** — Elias zu Hause oder am Auto | Aufbruch, kurzes Statement in die Kamera |
-| 2 | **Jobcenter Landkreis Northeim** | Abholen, **Interview Florian**, B-Roll im Jobcenter. Braucht **Drehgenehmigung** über Stefan Schäfer |
-| 3 | **Im Auto** | Zwei kleine Kameras, Gespräch ohne Fragensteller — das Herzstück |
-| 4 | **Tonstudio** | **Interview Elias**, Track für Florian, ggf. Florian am Mikro, **Foto** mit Goldener Schallplatte |
+Stand: Nachbesprechung Chris / Lukas am 05.11.2026 ([Protokoll](korrespondenz/2026-11-05-call-management-elias.md)).
 
 ---
 
-## Logistik — was den Tag bestimmt
+## Der Engpass: Tageslicht
 
-**Wo das Studio ist, entscheidet über alles.** Elias' Produzent sitzt in **Frankfurt, rund
-3 Stunden von Northeim.** Bei einer langen Fahrt:
+Ende November ist es in Frankfurt **ab etwa 15:30–16:00 dunkel.** Alles Draußen muss davor
+im Kasten sein: Jobcenter-Außen, „Elias geht zum Auto", die Autofahrt mit Drohne und
+Vorbeifahrten. Das Studio ist ein **Kunstlicht-Setting ohne Fenster** und kann nachmittags
+und abends laufen — das Rapper-im-dunklen-Studio-Bild darf sein.
 
-- muss das Jobcenter Florian **für den ganzen Tag freistellen** (über Stefan Schäfer),
-- wird die Fahrt selbst lang — gut für das Gespräch, aber Kamera-Akkus, Speicher und
-  Tageslicht einplanen,
-- ist der Rückweg für Florian zu organisieren.
+Deshalb scheitert Lukas' Alternative (morgens innen im echten Jobcenter Northeim, dann
+gemeinsam nach Frankfurt): Die Fahrt läge dann im Dunkeln.
 
-**Auto:** Fährt Elias mit seinem eigenen Auto? Noch offen.
+---
 
-**Startpunkt:** Wohnt Elias in Northeim? Noch offen.
+## Idealer Ablauf (Entwurf)
 
-**Reisekosten Elias:** ROCC übernimmt voraussichtlich, Höhe muss Sascha genannt werden.
+| Block | Zeit (ca.) | Ort | Was |
+| --- | --- | --- | --- |
+| 1 | früh | **Jobcenter-Gebäude in/nahe Frankfurt**, nicht Downtown-Look, **nur außen** | Start mit Florian: kurzes Einzel-Statement vor dem Gebäude oder in einer Ecke, die nach Jobcenter aussieht. Elias kommt dazu, Begrüßung, Einsteigen — direkt hier drehen |
+| 2 | Vormittag | **„Zuhause"-Location** nahe dabei, ähnlich Elias' Wohngegend | Florian hat zwei Stunden Pause. Elias allein: aus der Tür, zum Auto, mit Gimbal mitlaufend, er erzählt das „Vorher" — **und** einmal stumm als Schnittbilder für eine Off-Voice. Beides drehen |
+| 3 | bis ca. 15:00 | **Landstraße, die in die Stadt führt** | Florian wieder dazu. Kameras rigg­en (Auto ist vorher nicht verfügbar), Strecke 5–10 Minuten, mehrfach hin und her. Lukas hört mit und setzt Impulse. Dazu Drohne und Vorbeifahrten. **Mindestens drei Stunden einplanen** — der größte Block |
+| 4 | Nachmittag/Abend | **Tonstudio Frankfurt** (das mit der Goldenen Schallplatte) | Ankunft mit dem Auto, aussteigen, rein. Elias zeigt Florian alles, Produzent dabei, zwei bis vier Tracks, Skizze/Freestyle, Florian am Mikro, wenn er mag. **Foto mit Schallplatte.** Florian hat Feierabend |
+| 5 | Abend | Studio | Einzel-Statement Elias, in dem er noch einmal alles erzählt |
+
+**Warum chronologisch:** Florian braucht vielleicht eine Viertelstunde zum Warmwerden; wenn er
+im Studio mit Elias freestylen soll, ist das der Moment, in dem er am meisten aus sich
+rausgehen muss — bis dahin ist er aufgetaut.
+
+**Falls das Jobcenter Northeim darauf besteht, dass das echte Gebäude im Film ist:** Dann
+muss neu gedacht werden (zweite Anreise für Elias wäre „kacke", so Lukas). Chris fragt nach.
+
+---
+
+## Technik
+
+- **Im Auto:** zwei GoPros plus eine dritte kleine Kamera. Lukas: lieber kleine Kameras mit
+  großem Sensor als nur GoPro. Drei Winkel wie bei Auto-Interview-Formaten (Panas Referenz).
+- **Draußen:** Handkamera/Gimbal, Drohne für Vorbeifahrten.
+- **Lukas' Position beim Autogespräch:** versteckt im Auto oder per Walkie — noch offen.
+- **Kamera-Person:** noch nicht besetzt, Lukas soll jemanden vorschlagen (Lyfe-To-do).
+- Studio: Kunstlicht, dunkel ist gewollt.
+
+---
+
+## Logistik
+
+| Punkt | Stand |
+| --- | --- |
+| **Auto** | Elias fährt seinen **BMW** |
+| **Studio** | in Frankfurt; großes 500 €/Tag, kleines ca. 350 €. **Pana fragt 3 h zum Sonderpreis an** (öffentliche Gelder, nicht kommerziell). Welches Studio: das mit Elias' Schallplatte, klärt Elias mit Pana |
+| **Florian** | Anreise aus Northeim (2–3 h), Freistellung für den ganzen Tag über Stefan Schäfer. Rückweg bedenken |
+| **Reisekosten Elias** | ROCC übernimmt voraussichtlich, Höhe offen |
+| **Locations** | Jobcenter-Außen, „Zuhause", Landstraße — alle noch zu finden. Elias schickt Fotos seiner Wohngegend als Referenz, damit die Location nicht verfälscht |
 
 ---
 
 ## Was vor dem Drehtag vorliegen muss
 
-- [ ] Schriftliche **Einwilligung von Elias** (Sozialdatenschutz), damit Florian offen
-      sprechen darf
-- [ ] **Musikfreigabe** für den Track von Management/Label, ohne Zusatzkosten
-- [ ] **Freistellung Florian** und **Drehgenehmigung Jobcenter** (Stefan Schäfer)
+- [ ] Schriftliche **Einwilligung von Elias** (Sozialdatenschutz)
+- [ ] **Leitfaden-PDF** an Pana/Elias, Feedback zu No-Go-Themen zurück
+- [ ] **Freistellung Florian**, Klärung „anderes Jobcenter-Gebäude okay?" (Stefan Schäfer)
+- [ ] **Studio gebucht**, Preis bekannt
+- [ ] **Musikvorschläge / Beat** von Elias bzw. Pana vorab
+- [ ] **Fotos** Wohngegend und Studio von Elias
 - [ ] **Drehplan** an alle Beteiligten
-- [ ] Goldene Schallplatte — bringt Elias sie mit?
+- [ ] Kamera-Person besetzt, Auto-Rig geplant
+- [ ] Goldene Schallplatte vor Ort

@@ -5,10 +5,14 @@ lebt in den Fachdateien unter `docs/` — hier steht, wer wann was gesagt hat.
 
 Dateiname: `JJJJ-MM-TT-absender-thema.md`. Roh-Transkripte als `…-transkript.md`,
 daneben ein bereinigtes Protokoll. Original-Anhänge unverändert in `anlagen/`.
+Mails liegen in Lukas' Gmail (Suchbegriffe: `ilo 7araga`, `roccfilm`).
 
 | Datum | Was |
 | --- | --- |
-| [2026-11-03](2026-11-03-rocc-briefing-regie.md) | **Internes Regie-Briefing** von ROCC (Chris) für Lukas: Geschichte, Beteiligte, Konzept, BMAS-Vorgaben, Stand mit dem Management, Stolperfallen, Zeitplan |
-| [2026-11-04](2026-11-04-rocc-filmkonzept-beifahrersitz.md) | **Filmkonzept „Beifahrersitz"** — die Fassung, die BMAS freigegeben hat (Außenversion) |
-| [2026-11-05](2026-11-05-rocc-callvorbereitung.md) | **Callvorbereitung** für den Call mit Management, Elias und neues handeln: Ablauf, Strategie, Checkliste, Nach-dem-Call |
-| 2026-11-05 | Call mit Management, Elias, neues handeln — **Transkript und Protokoll folgen** |
+| 29.09.2026 | Kennenlerncall ROCC mit Elias, Florian, Jobcenter — **kein Beleg vorhanden** |
+| 29.10.2026 | Erster Call Chris/Christian mit Pana Salem — Zusammenfassungs-PDF **liegt nicht vor** |
+| [29.10.–03.11.](2026-10-29-wieczorek-kummer-zusammenfassung-und-entscheidungen.md) | **Mailthread Chris ↔ Sascha Kummer:** Entscheidungen (kein TikTok, Letztabnahme BMAS, ein Drehtag), Standardformat abgelehnt, Konzept Beifahrersitz freigegeben, Kernbotschaft-Vorschlag, offene Frage zu den verschobenen Terminen |
+| [03.11.](2026-11-03-rocc-briefing-regie.md) | **Internes Regie-Briefing** von Chris für Lukas (PDF) |
+| [04.11.](2026-11-04-rocc-filmkonzept-beifahrersitz.md) | **Filmkonzept „Beifahrersitz"** an alle Beteiligten (PDF) + Kalenderbuchung für den Call |
+| [05.11.](2026-11-05-rocc-callvorbereitung.md) | **Callvorbereitung** Chris für Lukas (PDF) |
+| [05.11.](2026-11-05-call-management-elias.md) | **Call mit Pana Salem, Elias, Chiara Fürst, Maurice Vink** + Nachbesprechung Chris/Lukas — das inhaltlich wichtigste Dokument. [Roh-Transkript](2026-11-05-call-management-elias-transkript.md) |
