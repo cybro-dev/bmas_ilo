@@ -12,13 +12,15 @@ Vorgaben von Sascha Kummer (29.10.): verbindlicher Zeitplan, **Abrechnung gegen�
 | Di 03.11.2026 | Briefing an Lukas; Kernbotschaft + Terminfrage an Sascha | Chris | ✅ / ⏳ Antwort Sascha |
 | Mi 04.11.2026 | Konzept an alle, Callvorbereitung an Lukas | Chris | ✅ |
 | **Do 05.11.2026** | **Call** mit Pana, Elias, Chiara, Maurice (13:45–14:30), Nachbesprechung Chris/Lukas | alle | ✅ |
-| Do 05.11. | Zusammenfassung per Mail an Pana (Daten, Fragenkatalog, Studio, Musik, Einwilligung, Reisekosten) | Chris | ⏳ |
-| Do/Fr 05./06.11. | Stefan Schäfer: Freistellung Florian, Drehgenehmigung, „anderes Gebäude okay?"; Florian unter vier Augen: Leistungsbezug | Chris | ⏳ |
-| **Fr 06.11.2026** | **Verbindlicher Zeitplan an Sascha**, inkl. Reisekosten — hängt an Panas Daten | Chris | ⏳ |
-| nach Daten von Pana | Mail an Florian wegen Termin → **gemeinsamer Call mit Florian** (Chris, Lukas, Chiara) | Chris | ⏳ |
-| danach | Leitfaden-PDF an Pana/Elias; Kostenvoranschlag an Katharina Mattar; Einwilligungsformular an Elias; Drehplan | Chris, Lukas | ⏳ |
-| KW 47 (16.–20.11.) | Möglich, aber Elias hat einen Studiotermin (Stuttgart, 1–2 h) | | eher nicht |
-| **KW 48 (23.–27.11.), ab 24.11.** | **Drehtag** in Frankfurt — Zielkorridor | alle | ⏳ Pana nennt Tage |
+| Do 05.11., 15:33–15:42 | Drei Zusammenfassungsmails: an Pana/Elias, an Sascha (Frankfurt, Jobcenter-Optionen, zwei Fragen), an Chiara/Maurice | Chris | ✅ |
+| Fr 06.11.2026 | Pana nennt mögliche Drehtage in KW 47/48; Studio-Preis; Fragenkatalog an Chiara | Pana | ⏳ |
+| Fr 06.11. | ~~Verbindlicher Zeitplan an Sascha~~ — **verschoben auf Anfang KW 46**, nach Florians Bestätigung | Chris | verschoben |
+| nach Panas Daten | Mail an Florian/Stefan Schäfer wegen Termin und Freistellung | Chris | ⏳ |
+| vor dem Florian-Call | Elias' Einverständnis (Datenschutz) einholen | Chris → Elias | ⏳ |
+| **Anfang KW 46 (ab Mo 09.11.)** | **Gesprächsleitfaden** an Pana/Elias und nh (Lukas + Chris); **verbindlicher Zeitplan an Sascha** | Lukas, Chris | ⏳ Lyfe-Frist 10.11. |
+| KW 46 | **Call mit Florian** (Lukas, Chris, Chiara/Maurice) | Chris organisiert | ⏳ |
+| danach | Kostenvoranschlag an Katharina Mattar (inkl. Studio, Florians Reise); Drehplan; Locations in Frankfurt | Chris, Lukas | ⏳ |
+| **KW 47 (16.–20.11.) oder KW 48 (23.–27.11.)** | **Drehtag** in Frankfurt — im Call klang ab 24.11. besser | alle | ⏳ Pana nennt Tage |
 | ca. 1 Woche nach Dreh | Rohschnitt an BMAS und zur Freigabe an Elias, Management, Jobcenter | ROCC | |
 | **bis Mi 09.12.2026** | **Letztabnahme BMAS** | Sascha Kummer | |
 | Do 10.12.2026 | Abrechnung gegenüber neues handeln | ROCC | |
