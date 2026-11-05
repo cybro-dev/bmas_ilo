@@ -52,4 +52,3 @@ Erledigte Punkte wandern in die zugehörige Fachdatei. To-dos für Lukas zusätz
 | --- | --- |
 | 23 | **Zusammenfassungs-PDF vom Call 29.10.** (Chris → Sascha) liegt nicht vor — bei Chris anfragen, falls nötig |
 | 24 | Sobald Panas Antwort und Saschas Antwort da sind: #1, #2, #3, #9, #12 abgleichen |
-| 25 | **GitHub-Default-Branch** steht noch auf `claude/sweet-carson-yb324q` — Lukas muss ihn einmal in den Repo-Settings auf `main` stellen (über den Session-Proxy nicht erlaubt); danach kann der alte Branch weg |
