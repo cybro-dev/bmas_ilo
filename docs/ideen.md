@@ -6,6 +6,47 @@ Stand. Wird etwas übernommen, zieht es in die Fachdatei um.
 
 ---
 
+## Aus dem ARD-Interview fürs Konzept (05.11.2026)
+
+Was das Interview ([Transkript](korrespondenz/2025-ard-deutschrap-ideal-interview-ilo-7araga-transkript.md),
+Auswertung in [Menschen](menschen.md#was-das-ard-interview-verrät)) für „Beifahrersitz" hergibt:
+
+1. **Der rote Zettel ist die Szene.** Elias hat die Führerschein-Geschichte schon einmal
+   selbst erzählt: allein am Bahnhof, Prüfung gerade bestanden, erster Anruf beim Produzenten.
+   Das ist eine Szene mit Ort, Requisite und Emotion. Im Auto Florian fragen lassen: „Weißt du
+   noch, der Tag, an dem du bestanden hast?" — und Elias erzählt sie Florian, nicht uns.
+   Vorsicht: Nach Stuttgart fuhr er Zug. Der Film sollte nicht behaupten, er sei zur
+   Castingshow gefahren, wenn er mit dem Zug kam — Elias selbst fragen, welche Fahrt die
+   Führerschein-Fahrt war.
+2. **„Dekoration" und „Antrieb" sind die zwei Pole des Films.** „Ich war mein ganzes Leben
+   Dekoration" ist der Vorher-Satz, „Die Musik hat mir einen Antrieb gegeben" der Nachher-Satz.
+   Wenn beide fallen, hat der Schnitt Anfang und Ende. Im Leitfaden nicht als Zitat
+   vorgeben, aber die Frage so stellen, dass er dort hinkommt: „Was hast du gemacht, bevor du
+   Musik gemacht hast?" → „Was hat sich verändert?"
+3. **Er braucht konkrete Anker.** Simon hat mit Kindheitsfotos gearbeitet, und Elias wurde
+   sofort erzählerisch. Für das Autogespräch: Florian könnte **Gegenstände oder Momente**
+   mitbringen, die er erinnert (ohne Akte, Datenschutz), Elias die Fotos von damals. Abstrakte
+   Fragen („Was bedeutet Vertrauen?") laufen bei ihm ins Leere.
+4. **Zu spät kommen ist sein eigenes Thema.** Er nennt es im Interview ungefragt seine
+   größte Schwäche. Die Termin-Geschichte mit Florian ist damit nicht heikel, sondern
+   ehrlich: Elias sagt selbst „ich hasse mich dafür", Florian sagt, wie er damit umging.
+   Das ist genau Chris' Formulierung „Verlässlichkeit in beide Richtungen" — mit Saschas
+   Freigabe erzählbar.
+5. **Hartz IV ist öffentlich.** Er hat es im ARD-Interview selbst gesagt. Die Scham-Sorge des
+   Managements ist damit kleiner als gedacht — das Argument für Pana, falls der
+   „Jobcenter-Clash" wieder aufkommt. Und: Er hat die Frage, ob er heute raus ist, nicht
+   beantwortet. Die bleibt unter vier Augen.
+6. **Noel ist die dritte Figur.** Der Produzent hat an ihn geglaubt, als er kein Geld hatte —
+   parallel zu Florian. Wenn Noel am Drehtag im Studio sitzt, ist das kein Statist: Florian
+   und Noel sind die zwei Menschen, die ihn gesehen haben, einer vom Amt, einer aus der
+   Musik. Ein Blick zwischen den beiden im Studio kann der Schlussmoment sein.
+7. **Sein Humor ist roast-sicher.** „Ich scheiß immer ein bisschen rein, aber am Ende kriege
+   ich es hin" — Selbstironie dieser Art nimmt TikTok den Wind aus den Segeln. Das ist das
+   Register, in dem der Film Jobcenter und Rapper zusammenbringen kann, ohne peinlich zu werden.
+8. **Für den Artikel (Chiara):** Rap La Rue, Partner, Noel, Luna, „7araga" vom Hörproben-Namen
+   des Partners, Algerien, Zeitarbeit in Corona — das ist der Hintergrund, den der Film nicht
+   braucht, der Artikel aber schon.
+
 ## Referenzen — deutsche Rapper-Dokus (Stand 05.11.2026)
 
 Lukas sichtet Referenzen für Look und Erzählhaltung. Alle lang (Serie oder 90 min), also nur

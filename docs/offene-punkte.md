@@ -27,7 +27,7 @@ Erledigte Punkte wandern in die zugehörige Fachdatei. To-dos für Lukas zusätz
 | # | Punkt | Bei wem |
 | --- | --- | --- |
 | 9 | **Antwort von Sascha** auf Chris' Fragen: Kernbotschaft okay? Verschobene Termine als „Verlässlichkeit in beide Richtungen" oder aussparen? **Leistungskürzung beim früheren Berater aufgreifen oder aussparen?** ([heikle Themen](gespraechsfuehrung.md#heikle-themen)) | Sascha Kummer |
-| 10 | **Leistungsbezug von Elias** — unter vier Augen mit Florian oder Elias, nie vor Management/nh | Lukas oder Chris |
+| 10 | **Leistungsbezug von Elias heute** — unter vier Augen mit Florian oder Elias, nie vor Management/nh. Dass er 2023 Hartz IV bezog, hat er im ARD-Interview selbst gesagt | Lukas oder Chris |
 | 11 | **Fotos** von Elias: Wohngegend und Studio mit Schallplatte | Elias |
 | 12 | **Handynummer von Elias**, Orga-Kontakt für den Drehtag (Pana oder direkt?) | Pana |
 | 13 | **Call mit Florian** — Lukas kennt ihn noch nicht; nh wird dazugeholt | Chris organisiert, KW 46 |

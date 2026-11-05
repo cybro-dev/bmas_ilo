@@ -66,8 +66,53 @@ zusammen zu erzählen fände er cool.
   **Goldene Schallplatte** — welches, klärt er mit Pana.
 - **Zugesagt (Call 05.11.):** Fotos seiner Wohngegend, Fotos vom Studio mit Platte,
   Musikvorschläge (gern unreleased).
-- Zum Einlesen: **ARD-Interview** (hr, „Deutschrap ideal"), Saschas Empfehlung — Link in
-  [Offene Punkte](offene-punkte.md) / Lyfe. Panas **100-Fragen-Katalog** kommt.
+- Panas **100-Fragen-Katalog** kommt.
+
+### Was das ARD-Interview verrät
+
+Quelle: [Transkript](korrespondenz/2025-ard-deutschrap-ideal-interview-ilo-7araga-transkript.md)
+des hr-Formats „Deutschrap ideal" mit Host Simon, vermutlich Herbst 2025. Elias ist darin
+locker, selbstironisch, erzählt in Anekdoten, sobald er einen konkreten Anker bekommt (Simon
+arbeitet mit Kindheitsfotos). Abstrakte Fragen beantwortet er kurz, konkrete lang.
+
+**Fakten und Namen**
+
+| Was | Details |
+| --- | --- |
+| **Casting-Show** | **Rap La Rue**, Finale 2024, Elias Top 5. Angemeldet am letzten Tag — „mein Hartz IV kommt erst am 1., ich habe mich am 30. beworben" |
+| **Partner** | ⚠️ „Amen/Aimon/Eamon" (Schreibweise unbestätigt) — Elias hat ihn für Rap La Rue angemeldet, gegen dessen Willen; Studio in Stuttgart. Gemeinsames Projekt, „eine Milliarde Streams" |
+| **Produzent** | **Noel** — von Anfang an dabei, hat an ihn geglaubt, als Elias kein Geld hatte; bekam gleichzeitig mit Elias einen Deal. Vermutlich der Produzent, der am Drehtag im Studio sitzt |
+| **Künstlername** | „ilo" reichte ihm nicht; „7araga" (Haraga) hat er vom Hörproben-Namen seines späteren Partners übernommen, bevor sie sich kannten |
+| **Lieblingssong** | „Luna" mit Luke Cry, entstanden in 3–4 Stunden in einer gewonnenen Snipes-Session in Berlin |
+| **Herkunft** | Nicht in Deutschland geboren, viel umgezogen, Familie mit Algerien-Bezug (sechs Wochen Sommer dort: „kein Urlaub, Arbeit"). Onkel in Dortmund. Auf Matratzen geschlafen, Auslandstelefonkarten. „Diese Story will ich in meinen Songs erklären" |
+| **Schule** | Dritte Klasse wiederholt, Brille gehasst („Mickey-Mouse-Brille"), wenige Freunde: „Ich war sehr nervig — voll viel Energie" |
+| **Vor der Musik** | Zeitarbeit, in Corona rausgeworfen: „Du bist voll lieb, aber du passt hier nicht rein." Shisha-süchtig, letzte 50 Cent aus der Spardose. Dann: „Was mach ich den ganzen Tag? Musik hören. Vielleicht kann ich Musik machen, die ich selber hören kann" |
+| **Album** | „Illusion", 2026, erst Singles. Titel aus dem Sprung „vom Puffzimmer in die 20. Etage vom Meliá" |
+| **Familie heute** | Eltern „glücklich, dass ich überhaupt was gemacht habe". TikTok-Format mit seiner Mutter („Mama Sternchen") |
+
+**Sätze, die für den Film tragen** (seine Worte, aus dem Interview):
+
+- *„Ich war mein ganzes Leben so Dekoration."* — und: *„Ich hab wegen Musik meinen Führerschein
+  gemacht. Die Musik hat mir einen Antrieb gegeben, der mir voll gefehlt hat."*
+- *„Das ist so, als ob du einem Vogel sagst: schwimm mal. Ich war in einer falschen Umgebung."*
+  — dieselbe Metapher wie der Fisch-Satz aus dem Briefing.
+- *„Früher hatte ich keine Sorgen. Ich war am Boden, ich hatte nichts zu verlieren. Jetzt habe
+  ich Sorgen — das erste Mal Verantwortung. Das erste Mal verstehst du, was Respekt ist."*
+  — der Satz, auf den Pana im Call anspielte.
+- *„Ich komme echt zu spät. Ich hasse mich dafür. Ich bin drei Stunden früher fertig, und dann
+  passiert so ein Filmriss."* — seine selbstbenannte Schwäche; passt zur Termin-Geschichte.
+- *„Ich scheiß immer so ein bisschen rein, aber am Ende kriege ich es irgendwie hin."*
+- *„Beef ist kein schönes Werkzeug. Die ganze Energie wirst du brauchen — nicht an den guten,
+  an den schlechten Tagen."*
+
+**Die Führerschein-Szene in seiner Version:** Er stand allein am Stuttgarter Hauptbahnhof,
+die vier Jungs waren nicht mitgekommen, Geld nur fürs Airbnb — und hatte **gerade die
+Fahrprüfung bestanden**, „mit diesem roten Zettel". Erster Anruf: Noel. Dann Tage im Studio
+mit Käse und Frischkäse vom Rewe. ⚠️ Nach Stuttgart kam er also **mit dem Zug**; die Fahrt mit
+dem Auto zur ersten Casting-Runde (Briefing) ist eine andere Fahrt. Im Film nicht vermischen.
+
+**Leistungsbezug 2023:** Er sagt öffentlich, dass er bei der Rap-La-Rue-Anmeldung Hartz IV
+bezog. Ob er heute raus ist, bleibt offen ([offener Punkt](offene-punkte.md)).
 
 ## Florian Radtke
 
