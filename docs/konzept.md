@@ -64,8 +64,9 @@ wenn die Autofahrt nicht trägt. Alleine sagt man manchmal, was man neben dem an
 | **Neue, noch nicht veröffentlichte Tracks** | unproblematisch; Pana: „am besten nur neue Tracks, dann findet eine kleine Promo statt" | Im Studio durch zwei bis vier Songs gehen, Elias wählt |
 | **Veröffentlichte Songs** (z. B. „Pistoleta") | **nur mit Freigabe des Vertriebs (Universal)**, sonst Takedown | Vermeiden |
 
-Elias schickt vorab Musikvorschläge, vertraulich; eingesetzt wird nur, was im finalen Schnitt
-freigegeben ist. Pana klärt die Verwertung nach dem Schnitt mit dem Vertrieb.
+Elias schickt vorab zwei, drei Tracks oder Beats, vertraulich; eingesetzt wird nur, was im
+finalen Schnitt freigegeben ist. Pana klärt die Verwertung nach dem Schnitt mit dem Vertrieb.
+Gegenüber Sascha hat Chris festgelegt: **im Studio nur Unveröffentlichtes oder Freestyle.**
 
 ---
 

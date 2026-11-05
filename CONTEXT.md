@@ -6,8 +6,9 @@ Arbeitsvermittler **Florian Radtke** vom Jobcenter Landkreis Northeim. Produzier
 **Regie: Lukas Hablitzel** (übernommen von Christian Martin Schäfer, der im Urlaub ist;
 Lukas hat für SGB2.info zuvor „Zwischenstopp" gedreht).
 
-Stand: **05.11.2026, nach dem Call mit Management, Elias und neues handeln.**
-Drehtag noch nicht terminiert, Ziel **KW 48 (23.–27.11.2026)**, Drehort **Frankfurt**.
+Stand: **05.11.2026, nach dem Call mit Management, Elias und neues handeln** und Chris'
+drei Folgemails. Drehtag noch nicht terminiert, Ziel **KW 47/48 (16.–27.11.2026)**, Drehort
+**Frankfurt**. Sascha muss noch entscheiden, wie das Jobcenter gezeigt wird.
 
 Dieses Repo ist die Wissensbasis dafür: was **feststeht**, was **besprochen** wurde,
 und was noch **offen** ist.
@@ -100,15 +101,15 @@ ROCC Film, Schönhauser Allee 128, 10437 Berlin. Buchungsseite: `mail@roccfilm.d
 | Randbedingung | Wert | Konsequenz |
 | --- | --- | --- |
 | **Ein Drehtag** | Vorgabe von Sascha Kummer | Alle Teile an einem Tag, Reihenfolge im Film = Reihenfolge des Tages |
-| **Drehort Frankfurt** | Elias' Studio ist in Frankfurt, Northeim liegt 2–3 h entfernt | „Zuhause", Jobcenter-Außen und Fahrt werden in/um Frankfurt nachgestellt. Florian reist an |
+| **Drehort Frankfurt** | Elias' Studio ist in Frankfurt, Northeim liegt 2–3 h entfernt | „Zuhause" und Fahrt werden in/um Frankfurt nachgestellt, Florian reist an. **Wie das Jobcenter gezeigt wird, entscheidet Sascha:** a) Jobcenter nahe Frankfurt (ROCC-Empfehlung), b) Bahnhof Frankfurt, c) zweiter Drehtag Northeim |
 | **Drehtermin** | Ziel KW 48 (ab 24.11.), KW 47 hat Elias einen Studiotermin | Pana nennt Daten; dann Florian, dann Zeitplan an Sascha |
 | **Tageslicht** | Ende November ab ca. 15:30–16:00 dunkel | Autofahrt, Außen und „Elias geht zum Auto" **vor 15 Uhr**; Studio ist Kunstlicht und kann danach kommen |
 | **Kein Album-Promofilm** | BMAS-Vorgabe, Sascha wörtlich | Albumtitel, Cover, Release-Termin kommen **nicht** in den Film. Musik im Studio ist ein Moment für Florian |
 | **Musikrechte** | Veröffentlichte Songs nur mit Freigabe des Vertriebs (Universal), sonst Takedown | **Unveröffentlichte Skizzen, Freestyle, Beat-only sind unproblematisch** — darauf setzen |
-| **Kein Honorar für Elias** | Management hat ausdrücklich verzichtet | Geld nicht neu aufmachen. TikTok-Clips vom Tisch. Reisekosten und Studio-Miete übernimmt ROCC voraussichtlich |
+| **Kein Honorar für Elias** | Management hat ausdrücklich verzichtet | Geld nicht neu aufmachen. TikTok-Clips vom Tisch. Für Elias fallen in Frankfurt kaum Reisekosten an, dafür reist Florian an; Studio-Miete geht in den Kostenvoranschlag |
 | **Studio-Miete** | 500 €/Tag groß, ca. 350 € klein; Pana fragt 3 h zum Sonderpreis an | Höhe geht in Kostenvoranschlag und Zeitplan an Sascha |
 | **Abnahme** | Elias, Management, Jobcenter geben frei, **Letztabnahme BMAS** | Film darf Elias' Marke nicht schaden. Danach darf Elias ihn auf seinen Kanälen teilen |
-| **Sozialdatenschutz** | Florian darf nur mit **schriftlicher Einwilligung von Elias** offen über die Betreuung sprechen — gilt auch für Chiaras Artikel-Gespräch | Formular geht an Elias — [offener Punkt](docs/offene-punkte.md) |
+| **Sozialdatenschutz** | Florian darf nur mit **schriftlicher Einwilligung von Elias** offen über die Betreuung sprechen — gilt auch für den Florian-Call mit nh | Einverständnis wird vor dem Florian-Call eingeholt — [offener Punkt](docs/offene-punkte.md) |
 | **Schnitt** | Rohschnitt ca. 1 Woche nach Dreh, Letztabnahme bis 09.12., Abrechnung 10.12. | **Anfang Dezember muss der Schnitt sehr schnell gehen** |
 
 ---

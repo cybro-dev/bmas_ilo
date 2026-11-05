@@ -16,3 +16,4 @@ Mails liegen in Lukas' Gmail (Suchbegriffe: `ilo 7araga`, `roccfilm`).
 | [04.11.](2026-11-04-rocc-filmkonzept-beifahrersitz.md) | **Filmkonzept „Beifahrersitz"** an alle Beteiligten (PDF) + Kalenderbuchung für den Call |
 | [05.11.](2026-11-05-rocc-callvorbereitung.md) | **Callvorbereitung** Chris für Lukas (PDF) |
 | [05.11.](2026-11-05-call-management-elias.md) | **Call mit Pana Salem, Elias, Chiara Fürst, Maurice Vink** + Nachbesprechung Chris/Lukas — das inhaltlich wichtigste Dokument. [Roh-Transkript](2026-11-05-call-management-elias-transkript.md) |
+| [05.11.](2026-11-05-wieczorek-zusammenfassungen-nach-dem-call.md) | **Drei Mails von Chris nach dem Call:** an Pana/Elias (Was wir brauchen), an Sascha (Frankfurt, Jobcenter-Optionen a/b/c, zwei inhaltliche Fragen), an Chiara/Maurice (Artikel) |

@@ -1,8 +1,9 @@
 # Drehtag
 
-**Noch nicht terminiert.** Ziel **KW 48, ab Di 24.11.2026** (KW 47 hat Elias einen
-Studiotermin in Stuttgart; Pana ist drei Wochen knapp, Elias flexibler). Pana nennt Daten,
-dann wird Florian gefragt, dann geht der Zeitplan an Sascha. **Ein einziger Drehtag.**
+**Noch nicht terminiert.** Chris hat Pana **KW 47 (16.–20.11.) oder KW 48 (23.–27.11.)**
+vorgegeben; im Call klang **ab 24.11.** besser (Elias hat in KW 47 einen Studiotermin in
+Stuttgart, Pana ist drei Wochen knapp). Pana nennt bis 06.11. Daten, dann wird Florian
+gefragt, dann geht der Zeitplan an Sascha (Anfang KW 46). **Ein einziger Drehtag.**
 
 **Drehort: Frankfurt am Main.** Elias' Studio ist dort, Northeim liegt 2–3 Stunden entfernt.
 Zuhause, Jobcenter und Fahrt werden in und um Frankfurt nachgestellt, Florian reist an.
@@ -37,8 +38,13 @@ gemeinsam nach Frankfurt): Die Fahrt läge dann im Dunkeln.
 im Studio mit Elias freestylen soll, ist das der Moment, in dem er am meisten aus sich
 rausgehen muss — bis dahin ist er aufgetaut.
 
-**Falls das Jobcenter Northeim darauf besteht, dass das echte Gebäude im Film ist:** Dann
-muss neu gedacht werden (zweite Anreise für Elias wäre „kacke", so Lukas). Chris fragt nach.
+**Wie das Jobcenter gezeigt wird, entscheidet Sascha** (Chris' Mail vom 05.11.):
+
+| Option | Was | Folge für den Tag |
+| --- | --- | --- |
+| **a)** ROCC-Empfehlung | Abholen vor einem Jobcenter nahe Frankfurt, ohne Northeim-Eindruck; Jobcenter Northeim wird vorher informiert | Ablauf wie oben |
+| **b)** | Abholen in Frankfurt, z. B. am Bahnhof; Jobcenter Northeim nur im Gespräch präsent | Block 1 wird Bahnhof — passt sogar zur Realität, Florian kommt mit dem Zug |
+| **c)** | Zusätzlich in Northeim drehen | Zweiter Drehtag — widerspricht Saschas Ein-Tag-Vorgabe |
 
 ---
 
@@ -60,7 +66,7 @@ muss neu gedacht werden (zweite Anreise für Elias wäre „kacke", so Lukas). C
 | **Auto** | Elias fährt seinen **BMW** |
 | **Studio** | in Frankfurt; großes 500 €/Tag, kleines ca. 350 €. **Pana fragt 3 h zum Sonderpreis an** (öffentliche Gelder, nicht kommerziell). Welches Studio: das mit Elias' Schallplatte, klärt Elias mit Pana |
 | **Florian** | Anreise aus Northeim (2–3 h), Freistellung für den ganzen Tag über Stefan Schäfer. Rückweg bedenken |
-| **Reisekosten Elias** | ROCC übernimmt voraussichtlich, Höhe offen |
+| **Reisekosten** | Für Elias in Frankfurt kaum welche; **Florian reist aus Northeim an** — das ist der Posten. Zahlen kommen mit dem Kostenvoranschlag |
 | **Locations** | Jobcenter-Außen, „Zuhause", Landstraße — alle noch zu finden. Elias schickt Fotos seiner Wohngegend als Referenz, damit die Location nicht verfälscht |
 
 ---
@@ -69,7 +75,7 @@ muss neu gedacht werden (zweite Anreise für Elias wäre „kacke", so Lukas). C
 
 - [ ] Schriftliche **Einwilligung von Elias** (Sozialdatenschutz)
 - [ ] **Leitfaden-PDF** an Pana/Elias, Feedback zu No-Go-Themen zurück
-- [ ] **Freistellung Florian**, Klärung „anderes Jobcenter-Gebäude okay?" (Stefan Schäfer)
+- [ ] **Saschas Entscheidung** zu Jobcenter-Option a/b/c; **Freistellung Florian** (Stefan Schäfer)
 - [ ] **Studio gebucht**, Preis bekannt
 - [ ] **Musikvorschläge / Beat** von Elias bzw. Pana vorab
 - [ ] **Fotos** Wohngegend und Studio von Elias

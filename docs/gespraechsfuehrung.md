@@ -5,9 +5,11 @@ Bild. Im Auto reden die beiden miteinander; Lukas hört versteckt im Auto oder p
 und setzt Impulse („erzählt doch mal, wie ihr euch kennengelernt habt"). Dazu kurze
 Einzel-Statements von Florian (am Jobcenter) und Elias (im Studio).
 
-**Der Leitfaden ist ein Deliverable:** Pana will vorab ein PDF mit den Gesprächsthemen pro
-Set, Pana und Elias melden dazu wichtige Punkte und **No-Go-Themen** zurück. Chris und Lukas
-machen es zusammen, Chris schickt es. (Lyfe-To-do.) Die Struktur unten ist der Entwurf dafür.
+**Der Leitfaden ist ein Deliverable mit Termin:** Chris hat ihn Pana/Elias **und** neues handeln
+für **Anfang KW 46 (ab 09.11.)** zugesagt. Themen je Station des Drehtags, Pana und Elias melden
+wichtige Punkte und **Tabu-Themen** zurück, nh will den „Friends"-Moment und „was können
+Jobcenter lernen" drin haben. Chris und Lukas machen es zusammen, Chris schickt es.
+(Lyfe-To-do, Frist 10.11.) Die Struktur unten ist der Entwurf dafür.
 
 ---
 
@@ -90,11 +92,12 @@ Elias hat im Call vom 05.11. erzählt: Vor Florian hatte er einen Berater („de
 Kadaver"). Er ist „manchmal verpeilt", hatte etwas vergessen mitzubringen, sich entschuldigt —
 und bekam beim nächsten Mal **20 % abgezogen**. Dann kam Florian.
 
-**Chris im Call: „Ob wir das im Film erzählen, wissen wir noch nicht."** Risiko: Der Film ist
-für Jobcenter, eine Sanktionsgeschichte gegen einen Kollegen trifft die Zielgruppe. Chance: Sie
-ist der Kontrast, der Florians Haltung sichtbar macht. **Wenn, dann ohne Abrechnung** — nicht
-„der war scheiße", sondern „bei Florian konnte ich offen sagen, wie es aussieht". Für den
-Artikel ist sie Hintergrund. **Vor dem Dreh mit Chris entscheiden, ggf. mit Sascha.**
+**Chris hat es am 05.11. Sascha zur Entscheidung vorgelegt:** „starker Kontrast, aber
+sensibel — aufgreifen oder aussparen?" **Antwort steht aus.** Risiko: Der Film ist für
+Jobcenter, eine Sanktionsgeschichte gegen einen Kollegen trifft die Zielgruppe. Chance: Sie ist
+der Kontrast, der Florians Haltung sichtbar macht. **Wenn, dann ohne Abrechnung** — nicht „der
+war scheiße", sondern „bei Florian konnte ich offen sagen, wie es aussieht". Für den Artikel
+ist sie Hintergrund. Bis Sascha antwortet: nicht in den Leitfaden, im Gespräch nur zuhören.
 
 ### Die verschobenen Termine
 
