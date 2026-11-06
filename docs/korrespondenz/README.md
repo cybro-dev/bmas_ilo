@@ -10,6 +10,7 @@ Mails liegen in Lukas' Gmail (Suchbegriffe: `ilo 7araga`, `roccfilm`).
 | Datum | Was |
 | --- | --- |
 | [Herbst 2025](2025-ard-deutschrap-ideal-interview-ilo-7araga-transkript.md) | **ARD „Deutschrap ideal": ilo 7araga im Interview mit Simon** (hr) — Roh-Transkript, Saschas Empfehlung zum Einlesen. Auswertung in [Menschen](../menschen.md#was-das-ard-interview-verrät) |
+| [ca. März 2025](2025-03-podcast-haben-oder-nicht-haben-ilo-7araga-transkript.md) | **Podcast „Haben oder Nicht Haben"** mit ilo 7araga — gekürztes Transkript (Banter zusammengefasst). Auswertung in [Menschen](../menschen.md#was-die-podcasts-verraten) |
 | 29.09.2026 | Kennenlerncall ROCC mit Elias, Florian, Jobcenter — **kein Beleg vorhanden** |
 | 29.10.2026 | Erster Call Chris/Christian mit Pana Salem — Zusammenfassungs-PDF **liegt nicht vor** |
 | [29.10.–03.11.](2026-10-29-wieczorek-kummer-zusammenfassung-und-entscheidungen.md) | **Mailthread Chris ↔ Sascha Kummer:** Entscheidungen (kein TikTok, Letztabnahme BMAS, ein Drehtag), Standardformat abgelehnt, Konzept Beifahrersitz freigegeben, Kernbotschaft-Vorschlag, offene Frage zu den verschobenen Terminen |

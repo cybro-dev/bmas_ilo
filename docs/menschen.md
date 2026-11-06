@@ -114,6 +114,27 @@ dem Auto zur ersten Casting-Runde (Briefing) ist eine andere Fahrt. Im Film nich
 **Leistungsbezug 2023:** Er sagt öffentlich, dass er bei der Rap-La-Rue-Anmeldung Hartz IV
 bezog. Ob er heute raus ist, bleibt offen ([offener Punkt](offene-punkte.md)).
 
+### Was die Podcasts verraten
+
+Quelle: [Transkript](korrespondenz/2025-03-podcast-haben-oder-nicht-haben-ilo-7araga-transkript.md)
+„Haben oder Nicht Haben" (Joey Malik, Haben Prinz, Krefeld), ca. März 2025. Zwei Stunden
+Banter, Elias ist Fan und hört den Podcast auf seinen Autofahrten. Ergänzt das ARD-Interview:
+
+| Was | Details |
+| --- | --- |
+| **Rap La Rue, Ablauf** | Anmeldung kostete 50 € — sein letzter Fünfziger („eine Woche kein Essen"). Er hatte erst seinen zweiten Song draußen und kein Geld mehr für Studio. Erste Runde in Frankfurt, Top 100 in vier Tagen à 25 Leute, **Finale in Marrakesch** |
+| **Partner** | aus **Nürnberg**; Elias überredete ihn, weil bei Rap La Rue „Rapper mit dir reden", nicht YouTuber. Elias war der Letzte der ersten Zehn, der Partner der Letzte der Hundert |
+| **Marrakesch** | „Wir müssen nur nach Marokko kommen, dann haben wir Urlaub umsonst" — er war noch nie mit Freunden im Urlaub |
+| **Vorher** | Zeitarbeit, immer wieder rausgeflogen: „Du bist ein sympathischer Typ, aber du passt hier nicht rein." **„Irgendwann wollte ich Frührente, Mitte 20, weil ich keinen Sinn mehr gesehen habe."** Schulden bei der AOK, Yum-Yum-Nudeln, Pfandflaschen von der Mutter statt Taschengeld |
+| **„Das erste Mal gearbeitet"** | „Das war auch das erste Mal, dass ich gearbeitet habe — an der Sache." Davor: nie etwas durchgezogen |
+| **Kindheit** | Keine Freunde, „der Hyperaktive", „wie ein Elefant im Aquarium"; Brille ab der dritten Klasse (bunt: blau, grün, orange), ausgelacht. Strenger Vater, Schläge, „es gibt keine Freunde, nur Familie". Kein Alkohol — erst aus Angst vor dem Vater, dann aus Überzeugung. Fastet im Ramadan |
+| **Fußball** | Mit 18 bei Bad Vilbel; Sichtungstraining beim FSV Frankfurt, nie wieder gehört; Afrika-Cup in Frankfurt (dort Haben kennengelernt) |
+| **Der Name** | „7" steht für den Buchstaben ح in der Derija-Chatschrift (maghrebinisches Arabisch, das er spricht). „Eine 7 ist cooler als ein H" |
+| **Arbeitsweise** | Beat zuerst, dann Topline (Melodie), dann Text. **Kein Freestyler**: „Ich rap nur für Geld, oder hol dir ein Ticket" — ⚠️ für die Studio-Szene relevant: eher Skizze/Song anspielen als Freestyle erwarten |
+| **Musik** | Mit französischem Rap aufgewachsen (Rimka, Jul, SCH, Gims, Niska, Hamza). „Hyaluron" handelt von Vergänglichkeit: „nichts bleibt für immer" |
+| **Auto** | „Ich fahre viele hundert Kilometer in der Woche, immer hin und her" — Frankfurt–Northeim. Podcasts im Auto. **Das Auto ist sein Alltag, nicht Inszenierung** |
+| **Nicht für den Film** | Pfandkisten von der Mannschaftsfeier, Getränke aus einer Jugendherberge, Shisha-Flatrate gegen abgezweigte Limetten — Kleinkram von früher, öffentlich erzählt, aber nichts, was ein BMAS-Film braucht |
+
 ## Florian Radtke
 
 - Arbeitsvermittler, Jobcenter Landkreis Northeim. Hat zugesagt, ist stolz auf Elias.

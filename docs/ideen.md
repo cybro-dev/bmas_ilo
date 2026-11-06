@@ -47,6 +47,24 @@ Auswertung in [Menschen](menschen.md#was-das-ard-interview-verrät)) für „Bei
    des Partners, Algerien, Zeitarbeit in Corona — das ist der Hintergrund, den der Film nicht
    braucht, der Artikel aber schon.
 
+**Nachtrag aus dem Podcast „Haben oder Nicht Haben"** ([Auswertung](menschen.md#was-die-podcasts-verraten)):
+
+9. **„Frührente mit Mitte 20"** ist der härteste Vorher-Satz, den er hat — härter als
+   „Dekoration". Er sagt ihn beiläufig und selbstironisch. Wenn er im Auto dort hinkommt,
+   trägt er den ganzen ersten Akt.
+10. **Er ist kein Freestyler, sagt er selbst.** Die Studio-Idee „Florian macht mit, Elias
+    freestylt" sollte nicht darauf bauen. Besser: eine fertige Skizze oder Hook anspielen,
+    Elias rappt sie Florian vor, Florian darf den Ad-lib machen. Das ist die realistische
+    Version des „humorvollen Moments am Mikro".
+11. **Das Auto ist wirklich sein Ort.** Hunderte Kilometer pro Woche zwischen Frankfurt und
+    Northeim, Podcasts auf der Fahrt. Die Beifahrersitz-Idee inszeniert nichts, sie
+    beobachtet seinen Alltag. Das kann man Pana so sagen.
+12. **Die 50 Euro** (letzter Schein, Anmeldegebühr, „eine Woche kein Essen") sind eine Szene
+    für Florian: „Hast du das damals gewusst?" Vielleicht wusste er es.
+13. **Pfand-, Limetten- und Jugendherbergs-Geschichten** sind öffentlich, aber im Film tabu.
+    Falls sie im Auto aufkommen: nicht abwürgen, im Schnitt raus. Im Leitfaden an Pana kann
+    das als „Tabu-Thema von unserer Seite" stehen — das baut Vertrauen auf.
+
 ## Referenzen — deutsche Rapper-Dokus (Stand 05.11.2026)
 
 Lukas sichtet Referenzen für Look und Erzählhaltung. Alle lang (Serie oder 90 min), also nur

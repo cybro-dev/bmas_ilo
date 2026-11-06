@@ -21,7 +21,7 @@ Lesehilfe — die Transkription verhunzt Namen:
 | Hafti | Haftbefehl |
 | Shereen | Shirin David |
 | Rin, Sofian, 069 | andere Acts auf dem Splash |
-| Mülenberg | Wohnort des Partners (⚠️ unklar) |
+| Mülenberg | vermutlich **Nürnberg** — laut Podcast „Haben oder Nicht Haben" kommt der Partner aus Nürnberg |
 | Milano, Mailand, Vito, Fratelli | Mailand-Anekdoten, Videodreh |
 | Mama Sternchen | TikTok-Format mit Elias' Mutter |
 | Melia-Hotel, Puffzimmer | Ursprung des Albumtitels „Illusion" |
