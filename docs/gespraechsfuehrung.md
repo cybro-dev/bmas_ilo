@@ -9,7 +9,7 @@ Einzel-Statements von Florian (am Jobcenter) und Elias (im Studio).
 für **Anfang KW 46 (ab 09.11.)** zugesagt. Themen je Station des Drehtags, Pana und Elias melden
 wichtige Punkte und **Tabu-Themen** zurück, nh will den „Friends"-Moment und „was können
 Jobcenter lernen" drin haben. Chris und Lukas machen es zusammen, Chris schickt es.
-(Lyfe-To-do, Frist 10.11.) Die Struktur unten ist der Entwurf dafür.
+(Lyfe-To-do, Frist 10.11.) **Der ausformulierte Entwurf steht in [leitfaden-entwurf.md](leitfaden-entwurf.md)**; unten die Rohstruktur.
 
 ---
 

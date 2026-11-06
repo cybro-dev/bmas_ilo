@@ -88,6 +88,7 @@ ROCC Film, Schönhauser Allee 128, 10437 Berlin. Buchungsseite: `mail@roccfilm.d
 | Das Konzept „Beifahrersitz": Teile, Stil, Musik, Vorgaben, Abgrenzungen | [Konzept](docs/konzept.md) |
 | Die Geschichte von Elias und Florian, Umgang mit dem Management, neues handeln | [Menschen](docs/menschen.md) |
 | Gesprächsführung: Leitfaden pro Set, Wording, heikle Themen, Einzelinterviews | [Gesprächsführung](docs/gespraechsfuehrung.md) |
+| Leitfaden-Entwurf fürs PDF an Pana/Elias/nh, mit internen Notizen | [Leitfaden-Entwurf](docs/leitfaden-entwurf.md) |
 | Drehtag: Ablaufplan Frankfurt, Tageslicht, Technik, Logistik | [Drehtag](docs/drehtag.md) |
 | Zeitplan bis zur Veröffentlichung | [Zeitplan](docs/zeitplan.md) |
 | Was noch geklärt werden muss | [Offene Punkte](docs/offene-punkte.md) |
