@@ -2,7 +2,7 @@
 
 Stand: **09.11.2026**, nach den Folge-Mails zum Call vom 05.11. und Saschas Antworten vom
 06.11. **Seit dem 06.11. keine neuen Mails** — von Management/Elias und vom Jobcenter
-Northeim steht die Antwort aus.
+Northeim steht die Antwort aus. Lukas hat Pana am 09.11. angerufen (siehe #1).
 
 To-dos mit Frist für Lukas zusätzlich in **Lyfe** (Projekt „ilo 7araga (BMAS / ROCC)").
 
@@ -12,7 +12,7 @@ To-dos mit Frist für Lukas zusätzlich in **Lyfe** (Projekt „ilo 7araga (BMAS
 
 | # | Punkt | Bei wem | Stand |
 | --- | --- | --- | --- |
-| 1 | **Drehtermin:** 2–3 mögliche Tage in KW 47/48 | Pana Salem / Elias | Von Chris am 05.11. angefragt, sollte bis 06.11. kommen — **steht aus** |
+| 1 | **Drehtermin:** 2–3 mögliche Tage in KW 47/48 | Pana Salem / Elias | Am 05.11. per Mail angefragt, nichts gekommen. **Lukas hat Pana am 09.11. angerufen:** Pana klärt es am 10.11. (13–14 Uhr) mit Elias und meldet sich **am 10.11. nachmittags**. Sonst ruft Lukas wieder an ([Telefonat](korrespondenz/2026-11-09-lukas-telefonat-pana-salem.md)) |
 | 2 | **Florians verfügbare Tage** in KW 47/48 | Florian Radtke | Am 06.11. angefragt — **steht aus** |
 | 3 | **Freistellung Florian** für den Drehtag | Stefan Schäfer | Am 06.11. angefragt — **steht aus** |
 | 4 | **Tonstudio** fix + Preis für ~3 h (Sonderpreis) | Management | angefragt |
@@ -29,7 +29,7 @@ To-dos mit Frist für Lukas zusätzlich in **Lyfe** (Projekt „ilo 7araga (BMAS
 | --- | --- | --- |
 | 11 | **Fotos vorab** von Studio und Wohngegend für die Location-Planung | Management / Elias |
 | 12 | **Fragenkatalog** (100 Fragen) an Chiara Fürst für den Artikel | Pana Salem |
-| 13 | **Orga-Kontakt:** Läuft die Drehplanung über Pana oder direkt mit Elias? Handynummer von Elias | Management |
+| 13 | **Orga-Kontakt:** Läuft die Drehplanung über Pana oder direkt mit Elias? Handynummer von Elias. **Pana reagiert kaum auf Mails, besser anrufen** | Management |
 | 14 | **Leistungsbezug von Elias heute** — unter vier Augen mit Florian oder Elias, nie vor Management/nh | Lukas oder Chris |
 | 15 | **Kostenvoranschlag** an neues handeln (Katharina Mattar), inkl. Studio und Florians Reise | Chris |
 | 16 | **Wanderausstellung:** Sascha fragt neues handeln, ob die Geschichte die Ausstellung ergänzen kann (Icon: Goldene Schallplatte). Maurice: „nehmen wir mit". Betrifft den Film nicht direkt | neues handeln |

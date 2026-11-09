@@ -69,6 +69,11 @@ sei stolz auf Elias.
 arbeiten. Die Stimmung beim Thema Geld war zuletzt angespannt; die Terminfindung war zäh
 (Sascha hat das ausdrücklich angemerkt). Also: ruhig, wertschätzend, partnerschaftlich.
 
+**Erreichbarkeit:** Pana reagiert kaum auf Mails, **anrufen funktioniert** (0176 23408638).
+Am Telefon war er am 09.11. freundlich und kooperativ, wirkte aber beschäftigt. Er hat einen
+**wöchentlichen Termin mit Elias** und klärt dort Termine
+([Telefonat 09.11.](korrespondenz/2026-11-09-lukas-telefonat-pana-salem.md)).
+
 **Die Linie des Managements:**
 
 - Sobald Elias **aktiv für das Jobcenter wirbt**, ist das bezahlte Werbung. Für drei
