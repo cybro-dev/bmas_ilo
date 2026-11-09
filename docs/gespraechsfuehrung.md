@@ -56,8 +56,24 @@ Deshalb **nicht** als „Termin schwänzen war okay" erzählen, sondern so, wie 
 beschreibt: *Elias hat sich gemeldet, sie haben einen neuen Termin gemacht, er war immer
 erreichbar.*
 
-Solange Sascha dazu nicht geantwortet hat: die Anekdote **nicht aktiv aufgreifen**. Wenn
-Elias sie selbst erzählt, zuhören.
+**Saschas Antwort (06.11.2026):** „ehrlicher Austausch ist wichtig; Termine wurden
+versäumt; Jobcenter ist aber dran geblieben und hat versucht zu erfahren, was die Gründe
+sind — es sollte deutlich werden, dass eine ehrliche Kommunikation hilft und Vertrauen
+dies auch befördert." → **Darf ins Gespräch**, ehrlich, mit dem Dranbleiben des Jobcenters
+und Vertrauen als Pointe. Chris hat zugesagt, das genau so in den Gesprächsleitfaden zu
+nehmen.
+
+### Leistungsminderung bei der früheren Betreuung
+
+Elias hat im Call erzählt: Bei seiner Betreuung **vor Florian** wurden ihm Leistungen
+gekürzt, weil er Unterlagen vergessen hatte. Erst mit Florian wurde die Zusammenarbeit
+anders — starker Kontrast in der Geschichte.
+
+**Saschas Antwort (06.11.2026):** „auch Leistungsminderungen gehören ehrlich dazu; ehrlich
+drüber sprechen; selbst kritisch sein und aufzeigen, wie es gelöst wurde; es sollte kein
+Eindruck entstehen, dass es einen Freifahrtsschein gab; auch sollte das Jobcenter nicht
+die böse Behörde sein." → **Darf vorkommen.** Elias selbstkritisch, Lösung zeigen; weder
+Freifahrtschein noch „böse Behörde".
 
 ### Leistungsbezug von Elias
 

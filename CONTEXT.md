@@ -5,8 +5,10 @@ Arbeitsvermittler **Florian Radtke** vom Jobcenter Landkreis Northeim. Produzier
 **ROCC Film** für **BMAS / SGB2.info**, abgewickelt über die Agentur **neues handeln**.
 **Regie: Lukas Hablitzel** (übernommen von Christian Martin Schäfer, der im Urlaub ist).
 
-Stand: **05.11.2026**, nach Briefing, Konzept und Callvorbereitung — **vor** Auswertung
-des Calls vom 05.11. Drehtag noch nicht terminiert, Ziel **bis Ende November 2026**.
+Stand: **09.11.2026**, nach dem Call vom 05.11. (ausgewertet über die Folge-Mails, Transkript
+fehlt) und Saschas Antworten vom 06.11. **Gedreht wird in und um Frankfurt**, nicht in
+Northeim. Drehtag noch nicht terminiert, Ziel **KW 47 oder 48 (16.–27.11.2026)** — es fehlen
+noch die Tage von Elias/Management und von Florian.
 
 Dieses Repo ist die Wissensbasis dafür: was **feststeht**, was **besprochen** wurde,
 und was noch **offen** ist.
@@ -16,7 +18,7 @@ und was noch **offen** ist.
 ## Der Film in einem Absatz
 
 **Ein Drehtag, ca. 3 Minuten, Deutsch, dokumentarisch**, für sgb2.info plus Kurzversion
-für LinkedIn. Elias holt Florian im Jobcenter Northeim ab und fährt mit ihm ins Tonstudio
+für LinkedIn. Elias holt Florian an einem Jobcenter ab (gedreht **bei Frankfurt**, Northeim wird genannt) und fährt mit ihm ins Tonstudio
 — **mit dem Führerschein, den das Jobcenter ihm damals gefördert hat.** Statt getrennter
 Interviews erzählen sich die beiden ihre Geschichte im Auto gegenseitig. Handkamera,
 lange Takes, kein Sprecher, keine gestellten Szenen. Schluss: Elias spielt Florian im
@@ -92,15 +94,16 @@ ROCC Film, Schönhauser Allee 128, 10437 Berlin.
 | Randbedingung | Wert | Konsequenz |
 | --- | --- | --- |
 | **Ein Drehtag** | Vorgabe von Sascha Kummer | Alle vier Teile des Films an einem Tag, Reihenfolge im Film = Reihenfolge des Tages |
-| **Drehtermin** | Ziel bis **27.11.2026**, hängt von Elias ab | Bis März 2027 hat Elias keine Auftritte — Zeit sollte da sein |
+| **Drehtermin** | **KW 47 oder 48 (16.–27.11.2026)**, hängt von Elias und Florian ab | Bis März 2027 hat Elias keine Auftritte — Zeit sollte da sein |
+| **Drehort Frankfurt** | Elias lebt und arbeitet inzwischen überwiegend in Frankfurt, Studio auch. Von Sascha am 06.11. abgesegnet | Abholszene vor einem **Jobcenter nahe Frankfurt**; **Jobcenter Northeim muss im Film genannt werden**. Florian reist an, ROCC zahlt — [Drehtag](docs/drehtag.md) |
 | **Kein Album-Promofilm** | BMAS-Vorgabe | Albumtitel, Cover, Release-Termin kommen **nicht** in den Film. Der Track im Studio ist ein Moment für Florian |
 | **Kein Honorar für Elias** | Management hat ausdrücklich verzichtet | **Geld im Gespräch nicht neu aufmachen.** TikTok-Clips (2.000–2.500 € gefordert) hat BMAS abgesagt, vom Tisch |
 | **Kein eigener Song** | Management: mehrere Studiotage + IP | Nur der spontane Moment am Mikro, nichts Produziertes |
 | **Abnahme** | Elias, Management, Jobcenter geben frei, **Letztabnahme BMAS** | Film darf Elias' Marke nicht schaden. Danach darf Elias ihn auf seinen Kanälen teilen |
 | **Sozialdatenschutz** | Florian darf nur mit **schriftlicher Einwilligung von Elias** offen über die Betreuung sprechen | Formular geht nach dem Call an Elias — [offener Punkt](docs/offene-punkte.md) |
-| **Musikfreigabe** | Für den Track im Film von Management bzw. Label, **ohne Zusatzkosten** | [offener Punkt](docs/offene-punkte.md) |
+| **Musik** | Sascha: „SEHR WICHTIG", alles muss frei verfügbar sein | Nur Musik mit **schriftlicher Nutzungsfreigabe**, sonst lizenzfrei. Im Studio unveröffentlichte Tracks/Skizzen/Freestyle — [offener Punkt](docs/offene-punkte.md) |
 | **Schnitt** | Rohschnitt ca. 1 Woche nach Dreh, Letztabnahme bis 09.12., Abrechnung 10.12. | **Anfang Dezember muss der Schnitt sehr schnell gehen** — Zeit direkt nach dem Dreh blocken |
-| **Reisekosten Elias** | ROCC übernimmt voraussichtlich, Höhe offen, muss an Sascha beziffert werden | [offener Punkt](docs/offene-punkte.md) |
+| **Kosten** | Für Elias kaum Reisekosten; **Florian reist aus Northeim an** (ROCC zahlt). Studio 350–500 €/Tag, Sonderpreis für ~3 h angefragt. Sascha: „in Ordnung" | Zahlen kommen mit dem Kostenvoranschlag |
 
 ---
 
@@ -111,4 +114,6 @@ ROCC Film, Schönhauser Allee 128, 10437 Berlin.
 - Kein Album-Promofilm, kein Albumtrailer, keine TikTok-Clips.
 - Nicht das Standardformat der bisherigen BMAS-Reihe — Saschas erster Eindruck davon war
   nicht überzeugt. Etwas rauer, das passt zu Elias.
-- Kein „Termin schwänzen war okay" — siehe [heikle Themen](docs/gespraechsfuehrung.md#heikle-themen).
+- Kein „Termin schwänzen war okay" und kein Jobcenter als „böse Behörde" — Sascha will
+  versäumte Termine und Leistungsminderung **ehrlich** erzählt haben, siehe
+  [heikle Themen](docs/gespraechsfuehrung.md#heikle-themen).
