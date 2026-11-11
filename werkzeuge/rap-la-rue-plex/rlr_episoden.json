@@ -7,7 +7,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 1,
-  "titel": "The Dawn of a New Era"
+  "titel": "The Dawn of a New Era",
+  "kanal": "DelarueTV"
  },
  {
   "id": "5pOhyQgZlz4",
@@ -17,7 +18,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 2,
-  "titel": "Up & Down"
+  "titel": "Up & Down",
+  "kanal": "DelarueTV"
  },
  {
   "id": "N_VJSmYkEto",
@@ -27,7 +29,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 3,
-  "titel": "I'm Here"
+  "titel": "I'm Here",
+  "kanal": "DelarueTV"
  },
  {
   "id": "d144JBWBmwU",
@@ -37,7 +40,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 4,
-  "titel": "Die Liga"
+  "titel": "Die Liga",
+  "kanal": "DelarueTV"
  },
  {
   "id": "_NfRdORQQWA",
@@ -47,7 +51,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 5,
-  "titel": "Nur So Gewinnt Man"
+  "titel": "Nur So Gewinnt Man",
+  "kanal": "DelarueTV"
  },
  {
   "id": "btNtCpjYw4s",
@@ -57,7 +62,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 6,
-  "titel": "What's In It For Me"
+  "titel": "What's In It For Me",
+  "kanal": "DelarueTV"
  },
  {
   "id": "UI-kowi204k",
@@ -67,7 +73,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 7,
-  "titel": "Smiles & Tears"
+  "titel": "Smiles & Tears",
+  "kanal": "DelarueTV"
  },
  {
   "id": "yzz61ig5sQs",
@@ -77,7 +84,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 8,
-  "titel": "What Do Your Shoes Say About You"
+  "titel": "What Do Your Shoes Say About You",
+  "kanal": "DelarueTV"
  },
  {
   "id": "rLLlJixjakA",
@@ -87,7 +95,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 9,
-  "titel": "Self-respect"
+  "titel": "Self-respect",
+  "kanal": "DelarueTV"
  },
  {
   "id": "7UGtRxEjyBo",
@@ -97,7 +106,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 10,
-  "titel": "On the ship"
+  "titel": "On the ship",
+  "kanal": "DelarueTV"
  },
  {
   "id": "BTZHjEgC1H4",
@@ -107,7 +117,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 11,
-  "titel": "The Experience"
+  "titel": "The Experience",
+  "kanal": "DelarueTV"
  },
  {
   "id": "VH1UpzGnr9s",
@@ -117,7 +128,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 12,
-  "titel": "An Die Grenze"
+  "titel": "An Die Grenze",
+  "kanal": "DelarueTV"
  },
  {
   "id": "QEI3PZj8Oy8",
@@ -127,7 +139,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 13,
-  "titel": "Every Centimeter"
+  "titel": "Every Centimeter",
+  "kanal": "DelarueTV"
  },
  {
   "id": "i9-MSA_1mKs",
@@ -137,7 +150,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 14,
-  "titel": "You're Better"
+  "titel": "You're Better",
+  "kanal": "DelarueTV"
  },
  {
   "id": "dI9Oq5O60-0",
@@ -147,7 +161,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 15,
-  "titel": "Beschütze Deine Träume"
+  "titel": "Beschütze Deine Träume",
+  "kanal": "DelarueTV"
  },
  {
   "id": "j62AxclMwdA",
@@ -157,7 +172,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 16,
-  "titel": "Sei Stark"
+  "titel": "Sei Stark",
+  "kanal": "DelarueTV"
  },
  {
   "id": "XV6pEw8Y1zo",
@@ -167,7 +183,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 17,
-  "titel": "Dawn"
+  "titel": "Dawn",
+  "kanal": "DelarueTV"
  },
  {
   "id": "AgJCnkveoE8",
@@ -177,7 +194,8 @@
   "runde": 1,
   "runde_label": "Runde 1",
   "folge": 18,
-  "titel": "The End (letzte Folge)"
+  "titel": "The End (letzte Folge)",
+  "kanal": "DelarueTV"
  },
  {
   "id": "HI2cfDvG_YQ",
@@ -187,7 +205,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Top 40",
   "folge": 1,
-  "titel": "Top 40"
+  "titel": "Top 40",
+  "kanal": "DelarueTV"
  },
  {
   "id": "wBcVvyU150E",
@@ -197,7 +216,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Top 40",
   "folge": 2,
-  "titel": "Top 40"
+  "titel": "Top 40",
+  "kanal": "DelarueTV"
  },
  {
   "id": "_wjgqtTWHL4",
@@ -207,7 +227,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Top 40",
   "folge": 3,
-  "titel": "Top 40"
+  "titel": "Top 40",
+  "kanal": "DelarueTV"
  },
  {
   "id": "J3ZqPESOZUY",
@@ -217,7 +238,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Top 40",
   "folge": 4,
-  "titel": "Top 40"
+  "titel": "Top 40",
+  "kanal": "DelarueTV"
  },
  {
   "id": "-ZHR5GR3sgg",
@@ -227,7 +249,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Top 40",
   "folge": 5,
-  "titel": "Top 40"
+  "titel": "Top 40",
+  "kanal": "DelarueTV"
  },
  {
   "id": "uRs0yHb-4tI",
@@ -237,7 +260,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Top 40",
   "folge": 6,
-  "titel": "Top 40"
+  "titel": "Top 40",
+  "kanal": "DelarueTV"
  },
  {
   "id": "N1ap-6NwBdA",
@@ -247,7 +271,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Top 40",
   "folge": 7,
-  "titel": "Top 40"
+  "titel": "Top 40",
+  "kanal": "DelarueTV"
  },
  {
   "id": "25eZnK5fh9g",
@@ -257,7 +282,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Top 40",
   "folge": 8,
-  "titel": "Top 40"
+  "titel": "Top 40",
+  "kanal": "DelarueTV"
  },
  {
   "id": "zkM4qnCwbkU",
@@ -267,7 +293,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Top 40",
   "folge": 9,
-  "titel": "Top 40"
+  "titel": "Top 40",
+  "kanal": "DelarueTV"
  },
  {
   "id": "Z2bkpmjYIZQ",
@@ -277,7 +304,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Top 40",
   "folge": 10,
-  "titel": "Top 40 – letzte Folge & Joker"
+  "titel": "Top 40 – letzte Folge & Joker",
+  "kanal": "DelarueTV"
  },
  {
   "id": "fuo9UYl756A",
@@ -287,7 +315,8 @@
   "runde": 3,
   "runde_label": "Runde 3 · Gruppen",
   "folge": 1,
-  "titel": "Stress In Der Luft – Rumble in the Jungle"
+  "titel": "Stress In Der Luft – Rumble in the Jungle",
+  "kanal": "DelarueTV"
  },
  {
   "id": "HqOs7DTHLAQ",
@@ -297,7 +326,8 @@
   "runde": 3,
   "runde_label": "Runde 3 · Gruppen",
   "folge": 2,
-  "titel": "Das Ende Dieser Gruppe? – Loyalty over Love"
+  "titel": "Das Ende Dieser Gruppe? – Loyalty over Love",
+  "kanal": "DelarueTV"
  },
  {
   "id": "Ex843eIRIGU",
@@ -307,7 +337,8 @@
   "runde": 3,
   "runde_label": "Runde 3 · Gruppen",
   "folge": 3,
-  "titel": "Wer Kommt In Die Villa – Final destination"
+  "titel": "Wer Kommt In Die Villa – Final destination",
+  "kanal": "DelarueTV"
  },
  {
   "id": "_93IappU6jE",
@@ -317,7 +348,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Finale (Villa)",
   "folge": 1,
-  "titel": "Finale – The Battle For The Rooms"
+  "titel": "Finale – The Battle For The Rooms",
+  "kanal": "DelarueTV"
  },
  {
   "id": "jAHJwVo9XXk",
@@ -327,7 +359,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Finale (Villa)",
   "folge": 2,
-  "titel": "Finale – Bring In The Money"
+  "titel": "Finale – Bring In The Money",
+  "kanal": "DelarueTV"
  },
  {
   "id": "MBoPgdGkDgk",
@@ -337,7 +370,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Finale (Villa)",
   "folge": 3,
-  "titel": "Finale – The Invisible Guest"
+  "titel": "Finale – The Invisible Guest",
+  "kanal": "DelarueTV"
  },
  {
   "id": "I6ru9P1Od7k",
@@ -347,7 +381,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Finale (Villa)",
   "folge": 4,
-  "titel": "Finale – All Good Things Come In 3RD"
+  "titel": "Finale – All Good Things Come In 3RD",
+  "kanal": "DelarueTV"
  },
  {
   "id": "za4PX_WDZkg",
@@ -357,7 +392,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Finale (Villa)",
   "folge": 5,
-  "titel": "Finale – Desert Storm"
+  "titel": "Finale – Desert Storm",
+  "kanal": "DelarueTV"
  },
  {
   "id": "cJ-arcVnclA",
@@ -367,7 +403,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Finale (Villa)",
   "folge": 6,
-  "titel": "Finale – Amor's Arrow"
+  "titel": "Finale – Amor's Arrow",
+  "kanal": "DelarueTV"
  },
  {
   "id": "D6HFaRvjmUg",
@@ -377,7 +414,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Finale (Villa)",
   "folge": 7,
-  "titel": "Finale – Rotes Licht, Grünes Licht"
+  "titel": "Finale – Rotes Licht, Grünes Licht",
+  "kanal": "DelarueTV"
  },
  {
   "id": "o65S5cTcy0U",
@@ -387,7 +425,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Finale (Villa)",
   "folge": 8,
-  "titel": "Finale – The End / Libero"
+  "titel": "Finale – The End / Libero",
+  "kanal": "DelarueTV"
  },
  {
   "id": "848B1LKF-iA",
@@ -397,7 +436,8 @@
   "runde": 5,
   "runde_label": "Grand Finale · Live-Show",
   "folge": 1,
-  "titel": "Grand Finale – Live-Show"
+  "titel": "Grand Finale – Live-Show",
+  "kanal": "DelarueTV"
  },
  {
   "id": "Du_O8QiS6i4",
@@ -407,7 +447,8 @@
   "runde": 0,
   "runde_label": "Trailer",
   "folge": 1,
-  "titel": "Trailer Staffel 2"
+  "titel": "Trailer Staffel 2",
+  "kanal": "DelarueTV"
  },
  {
   "id": "A_drx6opkZg",
@@ -417,7 +458,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 1,
-  "titel": "Ghetto House"
+  "titel": "Ghetto House",
+  "kanal": "DelarueTV"
  },
  {
   "id": "AJ0Vkj1W5O4",
@@ -427,7 +469,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 2,
-  "titel": "Randall’s Awakening"
+  "titel": "Randall’s Awakening",
+  "kanal": "DelarueTV"
  },
  {
   "id": "y6e4DD__qU4",
@@ -437,7 +480,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 3,
-  "titel": "The Pop Class"
+  "titel": "The Pop Class",
+  "kanal": "DelarueTV"
  },
  {
   "id": "s3p0M_m1cbU",
@@ -447,7 +491,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 4,
-  "titel": "Randalls Falle"
+  "titel": "Randalls Falle",
+  "kanal": "DelarueTV"
  },
  {
   "id": "213I4E6CYiE",
@@ -457,7 +502,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 5,
-  "titel": "Strassenrap"
+  "titel": "Strassenrap",
+  "kanal": "DelarueTV"
  },
  {
   "id": "6pv3gjMoBvE",
@@ -467,7 +513,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 6,
-  "titel": "Street Rap"
+  "titel": "Street Rap",
+  "kanal": "DelarueTV"
  },
  {
   "id": "PYNDUa36lJg",
@@ -477,7 +524,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 7,
-  "titel": "Randall's Biggest Betrayal"
+  "titel": "Randall's Biggest Betrayal",
+  "kanal": "DelarueTV"
  },
  {
   "id": "ySKQ26c7BGs",
@@ -487,7 +535,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 8,
-  "titel": "Die Trap Klasse"
+  "titel": "Die Trap Klasse",
+  "kanal": "DelarueTV"
  },
  {
   "id": "flqarY3p1GM",
@@ -497,7 +546,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 9,
-  "titel": "Let's Settle This At Recess"
+  "titel": "Let's Settle This At Recess",
+  "kanal": "DelarueTV"
  },
  {
   "id": "fbrrFGW7lh0",
@@ -507,7 +557,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 10,
-  "titel": "The Finale"
+  "titel": "The Finale",
+  "kanal": "DelarueTV"
  },
  {
   "id": "26yhQcl6FuM",
@@ -517,7 +568,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Länderduelle",
   "folge": 1,
-  "titel": "FRA vs ITA"
+  "titel": "FRA vs ITA",
+  "kanal": "DelarueTV"
  },
  {
   "id": "rVjUs2BhT-g",
@@ -527,7 +579,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Länderduelle",
   "folge": 2,
-  "titel": "POR vs DEU"
+  "titel": "POR vs DEU",
+  "kanal": "DelarueTV"
  },
  {
   "id": "tG2wpQchE7c",
@@ -537,7 +590,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Länderduelle",
   "folge": 3,
-  "titel": "POR vs TÜR"
+  "titel": "POR vs TÜR",
+  "kanal": "DelarueTV"
  },
  {
   "id": "GsIih3zoiVs",
@@ -547,7 +601,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Länderduelle",
   "folge": 4,
-  "titel": "NLD vs ITA"
+  "titel": "NLD vs ITA",
+  "kanal": "DelarueTV"
  },
  {
   "id": "JyYXQ-GZZZI",
@@ -557,7 +612,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Länderduelle",
   "folge": 5,
-  "titel": "NLD vs TÜR"
+  "titel": "NLD vs TÜR",
+  "kanal": "DelarueTV"
  },
  {
   "id": "lYJai0QYZtc",
@@ -567,7 +623,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · Länderduelle",
   "folge": 6,
-  "titel": "Marseille – Letzte Folge"
+  "titel": "Marseille – Letzte Folge",
+  "kanal": "DelarueTV"
  },
  {
   "id": "PNlySGy-EtM",
@@ -577,7 +634,8 @@
   "runde": 0,
   "runde_label": "Trailer",
   "folge": 1,
-  "titel": "Trailer Staffel 2 – One Piece"
+  "titel": "Trailer Staffel 2 – One Piece",
+  "kanal": "DelarueTV"
  },
  {
   "id": "1MQMJPArwfo",
@@ -587,7 +645,8 @@
   "runde": 3,
   "runde_label": "Runde 3 · One Piece",
   "folge": 1,
-  "titel": "All Hands On Deck"
+  "titel": "All Hands On Deck",
+  "kanal": "DelarueTV"
  },
  {
   "id": "JOxBlrRwcXI",
@@ -597,7 +656,8 @@
   "runde": 3,
   "runde_label": "Runde 3 · One Piece",
   "folge": 2,
-  "titel": "Alle Guten Dinge Sind 4"
+  "titel": "Alle Guten Dinge Sind 4",
+  "kanal": "DelarueTV"
  },
  {
   "id": "BiFuLZ3lHKI",
@@ -607,7 +667,8 @@
   "runde": 3,
   "runde_label": "Runde 3 · One Piece",
   "folge": 3,
-  "titel": "Die Schatzsuche"
+  "titel": "Die Schatzsuche",
+  "kanal": "DelarueTV"
  },
  {
   "id": "P8P7-N6-20A",
@@ -617,7 +678,8 @@
   "runde": 3,
   "runde_label": "Runde 3 · One Piece",
   "folge": 4,
-  "titel": "The Invisible Guests"
+  "titel": "The Invisible Guests",
+  "kanal": "DelarueTV"
  },
  {
   "id": "8i7SzOfB62A",
@@ -627,7 +689,8 @@
   "runde": 3,
   "runde_label": "Runde 3 · One Piece",
   "folge": 5,
-  "titel": "Die große Schlacht"
+  "titel": "Die große Schlacht",
+  "kanal": "DelarueTV"
  },
  {
   "id": "VhgXuXlTnZI",
@@ -637,7 +700,8 @@
   "runde": 3,
   "runde_label": "Runde 3 · One Piece",
   "folge": 6,
-  "titel": "Cover Challenge / Teil 1"
+  "titel": "Cover Challenge / Teil 1",
+  "kanal": "DelarueTV"
  },
  {
   "id": "myvSk-bb3Sc",
@@ -647,7 +711,8 @@
   "runde": 3,
   "runde_label": "Runde 3 · One Piece",
   "folge": 7,
-  "titel": "Cover Challenge Teil 2"
+  "titel": "Cover Challenge Teil 2",
+  "kanal": "DelarueTV"
  },
  {
   "id": "78ydXny7mNE",
@@ -657,7 +722,8 @@
   "runde": 3,
   "runde_label": "Runde 3 · One Piece",
   "folge": 8,
-  "titel": "The Finale"
+  "titel": "The Finale",
+  "kanal": "DelarueTV"
  },
  {
   "id": "q0NNTGEuZkc",
@@ -667,7 +733,8 @@
   "runde": 0,
   "runde_label": "Trailer",
   "folge": 1,
-  "titel": "Trailer Staffel 2 – Halbfinale Tunesien"
+  "titel": "Trailer Staffel 2 – Halbfinale Tunesien",
+  "kanal": "DelarueTV"
  },
  {
   "id": "DhpyzUw2CRo",
@@ -677,7 +744,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Halbfinale Tunesien",
   "folge": 1,
-  "titel": "Welcome To Tunisia"
+  "titel": "Welcome To Tunisia",
+  "kanal": "DelarueTV"
  },
  {
   "id": "qIEqMT5EsiU",
@@ -687,7 +755,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Halbfinale Tunesien",
   "folge": 2,
-  "titel": "Switch The Lyrics"
+  "titel": "Switch The Lyrics",
+  "kanal": "DelarueTV"
  },
  {
   "id": "GB_x9DnrZ3M",
@@ -697,7 +766,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Halbfinale Tunesien",
   "folge": 3,
-  "titel": "Battle Of The Socials"
+  "titel": "Battle Of The Socials",
+  "kanal": "DelarueTV"
  },
  {
   "id": "Ma-yGrZRcEI",
@@ -707,7 +777,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Halbfinale Tunesien",
   "folge": 4,
-  "titel": "Disco Fever"
+  "titel": "Disco Fever",
+  "kanal": "DelarueTV"
  },
  {
   "id": "GRDincVuxhE",
@@ -717,7 +788,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Halbfinale Tunesien",
   "folge": 5,
-  "titel": "1001 Nights"
+  "titel": "1001 Nights",
+  "kanal": "DelarueTV"
  },
  {
   "id": "Yf5U1XZ5fEQ",
@@ -727,7 +799,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Halbfinale Tunesien",
   "folge": 6,
-  "titel": "A Familiar Echo"
+  "titel": "A Familiar Echo",
+  "kanal": "DelarueTV"
  },
  {
   "id": "VyLwRhJn5LQ",
@@ -737,7 +810,8 @@
   "runde": 4,
   "runde_label": "Runde 4 · Halbfinale Tunesien",
   "folge": 7,
-  "titel": "Wer kommt ins Finale?"
+  "titel": "Wer kommt ins Finale?",
+  "kanal": "DelarueTV"
  },
  {
   "id": "Dwh20UFcRT0",
@@ -747,7 +821,8 @@
   "runde": 5,
   "runde_label": "Runde 5 · Finale",
   "folge": 1,
-  "titel": "Caught in the Act"
+  "titel": "Caught in the Act",
+  "kanal": "DelarueTV"
  },
  {
   "id": "w5G098a4MSc",
@@ -757,7 +832,8 @@
   "runde": 5,
   "runde_label": "Runde 5 · Finale",
   "folge": 2,
-  "titel": "The Three Audacious Ones"
+  "titel": "The Three Audacious Ones",
+  "kanal": "DelarueTV"
  },
  {
   "id": "tmIJ1piPyjs",
@@ -767,7 +843,8 @@
   "runde": 5,
   "runde_label": "Runde 5 · Finale",
   "folge": 3,
-  "titel": "Once Upon A Time"
+  "titel": "Once Upon A Time",
+  "kanal": "DelarueTV"
  },
  {
   "id": "Ulif0leOQhc",
@@ -777,7 +854,8 @@
   "runde": 5,
   "runde_label": "Runde 5 · Finale",
   "folge": 4,
-  "titel": "Ying Und Yang"
+  "titel": "Ying Und Yang",
+  "kanal": "DelarueTV"
  },
  {
   "id": "o5YfEcxY7lI",
@@ -787,7 +865,8 @@
   "runde": 5,
   "runde_label": "Runde 5 · Finale",
   "folge": 5,
-  "titel": "The Desert Fox"
+  "titel": "The Desert Fox",
+  "kanal": "DelarueTV"
  },
  {
   "id": "fsgxzlik6Q8",
@@ -797,7 +876,8 @@
   "runde": 5,
   "runde_label": "Runde 5 · Finale",
   "folge": 6,
-  "titel": "Der G8 Gipfel"
+  "titel": "Der G8 Gipfel",
+  "kanal": "DelarueTV"
  },
  {
   "id": "QJiZtauNFl0",
@@ -807,7 +887,8 @@
   "runde": 5,
   "runde_label": "Runde 5 · Finale",
   "folge": 7,
-  "titel": "Meet The Champ"
+  "titel": "Meet The Champ",
+  "kanal": "DelarueTV"
  },
  {
   "id": "8QoTiwVoUac",
@@ -817,7 +898,8 @@
   "runde": 1,
   "runde_label": "RLR Cypher",
   "folge": 1,
-  "titel": "Cypher Session 1 – Live Your Dream"
+  "titel": "Cypher Session 1 – Live Your Dream",
+  "kanal": "DelarueTV"
  },
  {
   "id": "eEBpmuA_UCo",
@@ -827,7 +909,8 @@
   "runde": 1,
   "runde_label": "RLR Cypher",
   "folge": 2,
-  "titel": "Cypher Session 2 – Ein Ehrlicher Feind"
+  "titel": "Cypher Session 2 – Ein Ehrlicher Feind",
+  "kanal": "DelarueTV"
  },
  {
   "id": "GT6J1u0b7W8",
@@ -837,7 +920,8 @@
   "runde": 1,
   "runde_label": "RLR Cypher",
   "folge": 3,
-  "titel": "Cypher Session 3 – Von Der Gosse, In Die Charts"
+  "titel": "Cypher Session 3 – Von Der Gosse, In Die Charts",
+  "kanal": "DelarueTV"
  },
  {
   "id": "H5i3Zo7Xt-Y",
@@ -847,7 +931,8 @@
   "runde": 1,
   "runde_label": "RLR Cypher",
   "folge": 4,
-  "titel": "Cypher Session 4 – Kickdown Bis Zum Benz"
+  "titel": "Cypher Session 4 – Kickdown Bis Zum Benz",
+  "kanal": "DelarueTV"
  },
  {
   "id": "VTUV3i5yX_M",
@@ -857,7 +942,8 @@
   "runde": 0,
   "runde_label": "Trailer",
   "folge": 1,
-  "titel": "Trailer Staffel 3"
+  "titel": "Trailer Staffel 3",
+  "kanal": "DelarueTV"
  },
  {
   "id": "sHmQiKuC3AI",
@@ -867,7 +953,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 1,
-  "titel": "Hustler-Klasse mit Celo & Abdi (1)"
+  "titel": "Hustler-Klasse mit Celo & Abdi (1)",
+  "kanal": "DelarueTV"
  },
  {
   "id": "b_1yilfAaUU",
@@ -877,7 +964,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 2,
-  "titel": "Hustler-Klasse mit Celo & Abdi (2)"
+  "titel": "Hustler-Klasse mit Celo & Abdi (2)",
+  "kanal": "DelarueTV"
  },
  {
   "id": "0oCzbLwR8Zg",
@@ -887,7 +975,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 3,
-  "titel": "Die Bela-Klasse mit Veysel (1)"
+  "titel": "Die Bela-Klasse mit Veysel (1)",
+  "kanal": "DelarueTV"
  },
  {
   "id": "7pLDebEyOZg",
@@ -897,7 +986,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 4,
-  "titel": "Die Bela-Klasse mit Veysel (2)"
+  "titel": "Die Bela-Klasse mit Veysel (2)",
+  "kanal": "DelarueTV"
  },
  {
   "id": "wq5EREnWWXo",
@@ -907,7 +997,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 5,
-  "titel": "Die Million-Dollar-Klasse mit Loredana (1)"
+  "titel": "Die Million-Dollar-Klasse mit Loredana (1)",
+  "kanal": "DelarueTV"
  },
  {
   "id": "HDGiYsBYQ3M",
@@ -917,7 +1008,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 6,
-  "titel": "Die Million-Dollar-Klasse mit Loredana (2)"
+  "titel": "Die Million-Dollar-Klasse mit Loredana (2)",
+  "kanal": "DelarueTV"
  },
  {
   "id": "-EjBoMWS0ns",
@@ -927,7 +1019,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 7,
-  "titel": "Die Peter-Pan-Klasse mit Fard (1)"
+  "titel": "Die Peter-Pan-Klasse mit Fard (1)",
+  "kanal": "DelarueTV"
  },
  {
   "id": "txpwxbHWvOo",
@@ -937,7 +1030,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 8,
-  "titel": "Die Peter-Pan-Klasse mit Fard (2)"
+  "titel": "Die Peter-Pan-Klasse mit Fard (2)",
+  "kanal": "DelarueTV"
  },
  {
   "id": "0_oree2l3mY",
@@ -947,7 +1041,8 @@
   "runde": 1,
   "runde_label": "Runde 1 · Große Pause",
   "folge": 9,
-  "titel": "Das Klassensprecher Battle"
+  "titel": "Das Klassensprecher Battle",
+  "kanal": "DelarueTV"
  },
  {
   "id": "6DF-p3GOn5A",
@@ -957,7 +1052,8 @@
   "runde": 0,
   "runde_label": "Trailer",
   "folge": 1,
-  "titel": "Trailer Staffel 3 – WM"
+  "titel": "Trailer Staffel 3 – WM",
+  "kanal": "DelarueTV"
  },
  {
   "id": "LQa-qc7r8Sg",
@@ -967,7 +1063,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · WM",
   "folge": 1,
-  "titel": "Kick-off"
+  "titel": "Kick-off",
+  "kanal": "DelarueTV"
  },
  {
   "id": "SgnTIjZkxMw",
@@ -977,7 +1074,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · WM",
   "folge": 2,
-  "titel": "The Libero - The Final Authority"
+  "titel": "The Libero - The Final Authority",
+  "kanal": "DelarueTV"
  },
  {
   "id": "L8HfA3Jh2qE",
@@ -987,7 +1085,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · WM",
   "folge": 3,
-  "titel": "New Matchday - New Chances"
+  "titel": "New Matchday - New Chances",
+  "kanal": "DelarueTV"
  },
  {
   "id": "9D2Z4oG-4dg",
@@ -997,7 +1096,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · WM",
   "folge": 4,
-  "titel": "A Duel With Consequences"
+  "titel": "A Duel With Consequences",
+  "kanal": "DelarueTV"
  },
  {
   "id": "QTm0404jPTQ",
@@ -1007,7 +1107,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · WM",
   "folge": 5,
-  "titel": "The Final Matchday"
+  "titel": "The Final Matchday",
+  "kanal": "DelarueTV"
  },
  {
   "id": "p64r_IXRZRs",
@@ -1017,7 +1118,8 @@
   "runde": 2,
   "runde_label": "Runde 2 · WM",
   "folge": 6,
-  "titel": "Last Episode – Who makes it to Round 3"
+  "titel": "Last Episode – Who makes it to Round 3",
+  "kanal": "DelarueTV"
  },
  {
   "id": "BoYyCWXN_NA",
@@ -1027,7 +1129,8 @@
   "runde": 3,
   "runde_label": "Runde 3",
   "folge": 1,
-  "titel": "Good Things Come In Threes"
+  "titel": "Good Things Come In Threes",
+  "kanal": "DelarueTV"
  },
  {
   "id": "GaE5QCt1dEA",
@@ -1037,7 +1140,8 @@
   "runde": 3,
   "runde_label": "Runde 3",
   "folge": 2,
-  "titel": "Battle Of The Egos"
+  "titel": "Battle Of The Egos",
+  "kanal": "DelarueTV"
  },
  {
   "id": "pZ7ezjygTAU",
@@ -1047,7 +1151,8 @@
   "runde": 3,
   "runde_label": "Runde 3",
   "folge": 3,
-  "titel": "They Are Back"
+  "titel": "They Are Back",
+  "kanal": "DelarueTV"
  },
  {
   "id": "4LjW17cTQos",
@@ -1057,7 +1162,8 @@
   "runde": 3,
   "runde_label": "Runde 3",
   "folge": 4,
-  "titel": "The Last Trios"
+  "titel": "The Last Trios",
+  "kanal": "DelarueTV"
  },
  {
   "id": "v7HVGCSuRdI",
@@ -1067,6 +1173,172 @@
   "runde": 3,
   "runde_label": "Runde 3",
   "folge": 5,
-  "titel": "Who Makes It To The Finals?"
+  "titel": "Who Makes It To The Finals?",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "12T05vC3WxE",
+  "yt_title": "DIE ERSTEN BEWERBER 😂😮 ( RAP LA RUE )  MIT JURI",
+  "duration": 4090,
+  "staffel": 0,
+  "runde": 2,
+  "runde_label": "Bewerbungs-Streams",
+  "folge": 1,
+  "titel": "Bewerbungen 1 – Die ersten Bewerber (mit Juri)",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "FRFD7fTDEJs",
+  "yt_title": "RAP LA RUE BEWERBER ABCHECKEN 🤯😂🎶 MIT BOBBY VANDAMME",
+  "duration": 6150,
+  "staffel": 0,
+  "runde": 2,
+  "runde_label": "Bewerbungs-Streams",
+  "folge": 2,
+  "titel": "Bewerbungen 2 – mit Bobby Vandamme",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "jCrcZRhpJ3U",
+  "yt_title": "RAP LA RUE BEWERBER ABCHECKEN 🤯😂🎶 MIT O.G",
+  "duration": 5128,
+  "staffel": 0,
+  "runde": 2,
+  "runde_label": "Bewerbungs-Streams",
+  "folge": 3,
+  "titel": "Bewerbungen 3 – mit O.G",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "t6OO5R_WubY",
+  "yt_title": "NEUE BEWERBER ! VERSTECK DEIN TALENT 😂😮 ( RAP LA RUE )  MIT JURI",
+  "duration": 4658,
+  "staffel": 0,
+  "runde": 2,
+  "runde_label": "Bewerbungs-Streams",
+  "folge": 4,
+  "titel": "Bewerbungen 4 – Versteck dein Talent (mit Juri)",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "errDdoID8WU",
+  "yt_title": "Hör auf die Hater 🤯😂🎶Rap La Rue Bewerber 3",
+  "duration": 3510,
+  "staffel": 0,
+  "runde": 2,
+  "runde_label": "Bewerbungs-Streams",
+  "folge": 5,
+  "titel": "Bewerbungen 5 – Hör auf die Hater",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "1kwH-H2vziM",
+  "yt_title": "Versteck dein Talent 😂! Neue Bewerber🔥 Rap La Rue🎶🎶",
+  "duration": 4536,
+  "staffel": 0,
+  "runde": 2,
+  "runde_label": "Bewerbungs-Streams",
+  "folge": 6,
+  "titel": "Bewerbungen 6 – Versteck dein Talent, neue Bewerber",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "kYU2-OaZFTI",
+  "yt_title": "Rap la rueeee with @SugarMMFK53 ❤️",
+  "duration": 4975,
+  "staffel": 0,
+  "runde": 2,
+  "runde_label": "Bewerbungs-Streams",
+  "folge": 7,
+  "titel": "Bewerbungen 7 – mit Sugar MMFK",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "PAJTvU7XTEM",
+  "yt_title": "Rap la Rue Bewerber ! ICH BIN GESPANNT🤯",
+  "duration": 5468,
+  "staffel": 0,
+  "runde": 2,
+  "runde_label": "Bewerbungs-Streams",
+  "folge": 8,
+  "titel": "Bewerbungen 8 – Ich bin gespannt",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "E_sFWZ5KvKc",
+  "yt_title": "RAP LA RUE !! WHO ARE THE NEXT UP 🤯😂🎶 FEAT. BOJAN",
+  "duration": 4876,
+  "staffel": 0,
+  "runde": 2,
+  "runde_label": "Bewerbungs-Streams",
+  "folge": 9,
+  "titel": "Bewerbungen 9 – Who are the next up (feat. Bojan)",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "CT2ULX6z2AQ",
+  "yt_title": "Rap La Rue ! Ich Check die nächsten Bewerbungen",
+  "duration": 3583,
+  "staffel": 0,
+  "runde": 2,
+  "runde_label": "Bewerbungs-Streams",
+  "folge": 10,
+  "titel": "Bewerbungen 10 – Ich check die nächsten Bewerbungen",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "5OeFnBEh3M8",
+  "yt_title": "SADIQ IS A GUEST 🎶 (RAP LA RUE) CHECKING OUT APPLICANTS🔥🔥",
+  "duration": 5659,
+  "staffel": 0,
+  "runde": 2,
+  "runde_label": "Bewerbungs-Streams",
+  "folge": 11,
+  "titel": "Bewerbungen 11 – SadiQ ist Gast",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "78YEzY4L8m0",
+  "yt_title": "RAP LA RUE BEWERBUNGEN 😮🔥MIT JURI",
+  "duration": 3688,
+  "staffel": 0,
+  "runde": 2,
+  "runde_label": "Bewerbungs-Streams",
+  "folge": 12,
+  "titel": "Bewerbungen 12 – mit Juri",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "guegR2KhPeQ",
+  "yt_title": "RAP LA RUE APPLICATIONS CHECK OUT 😮🔥WITH SILVA",
+  "duration": 3487,
+  "staffel": 0,
+  "runde": 2,
+  "runde_label": "Bewerbungs-Streams",
+  "folge": 13,
+  "titel": "Bewerbungen 13 – mit Silva",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "Kvca1_AxOdM",
+  "yt_title": "RAP LA RUE | BEHIND THE SCENES 🎥 VLOG | Part 1",
+  "duration": 1331,
+  "staffel": 0,
+  "runde": 3,
+  "runde_label": "Behind the Scenes",
+  "folge": 1,
+  "titel": "Behind the Scenes – Vlog Teil 1",
+  "kanal": "DelarueTV"
+ },
+ {
+  "id": "mJEfcXGRwTs",
+  "yt_title": "RAP LA RUE | BEHIND THE SCENES 🎥 VLOG | Teil 2",
+  "duration": 1492,
+  "staffel": 0,
+  "runde": 3,
+  "runde_label": "Behind the Scenes",
+  "folge": 2,
+  "titel": "Behind the Scenes – Vlog Teil 2",
+  "kanal": "DelarueTV"
  }
 ]

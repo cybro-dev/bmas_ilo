@@ -8,9 +8,15 @@ Plex) und Hintergrund für die Frage zur **Fahrt zur ersten Casting-Runde**
 
 - **Rap La Rue** (RLR): deutsche Hip-Hop-Castingshow, läuft komplett auf **YouTube**.
   Macher: **Sami Bakri** („Delarue") und Randy Ngani Ekowa, Raplarue Production UG.
-- Ganze Folgen auf Samis Kanal **DelarueTV**, Songs/Musikvideos der Teilnehmer auf
-  **@raplarue**. Sammel-Playlist aller Folgen: „RAP LA RUE – ALLE FOLGEN"
-  (`PL_6SgFxRINCNgNmlg8-FqUBAwP5SzxBQ9`).
+- **Zwei Kanäle:** Die **ganzen Folgen** liegen auf Samis Kanal **DelarueTV**
+  (`@samidelarue`), auf **@raplarue** nur die **Songs/Musikvideos** der Teilnehmer.
+  Ausnahme: Die Sammel-Playlist „RAP LA RUE – ALLE FOLGEN"
+  (`PL_6SgFxRINCNgNmlg8-FqUBAwP5SzxBQ9`) hängt an @raplarue, alle 107 Videos darin sind
+  aber DelarueTV-Videos.
+- Zusätzlich auf DelarueTV, nicht in der Playlist: **13 Bewerbungs-Streams** (Sami sichtet
+  mit Gästen die Bewerbungen, je 1–1,5 h) und 2 Behind-the-Scenes-Vlogs. ⚠️ Ob Elias'
+  Bewerbung dort gezeigt wird, ist offen; der Scan prüft das mit (`--staffel 0`).
+  Außerdem dort: **„Bona"** (ilo 7araga × JUU × Amo × Moel030, Official Video).
 - **Staffel 1** (Finale 2024): über 1.800 Bewerbungen, **Gewinner Haaland936**.
   Staffel 2 (Finale 18.07.2025, Messe Frankfurt): Gewinner Der Yavuz. Staffel 3 läuft.
 - Quelle: [Wikipedia „Rap La Rue"](https://de.wikipedia.org/wiki/Rap_La_Rue), YouTube-Playlists.
