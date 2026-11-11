@@ -10,7 +10,7 @@ Laut Chris soll es möglichst nah am Studio liegen. Die Studio-Adresse fehlt noc
 Gewünschter Look ([Drehtag](drehtag.md)): **nur außen**, kein Downtown-Look, ein Auto muss
 vor dem Eingang halten können, und Florian braucht eine Ecke, die nach Jobcenter aussieht.
 
-Recherche vom 11.11.2026. Das PDF mit Fotos liegt bei Lukas (gesendet am 11.11.).
+Recherche vom 11.11.2026. PDF zum Weitergeben, mit Street-View-Link pro Haus: [jobcenter-motiv-frankfurt.pdf](jobcenter-motiv-frankfurt.pdf).
 
 ---
 
@@ -54,4 +54,4 @@ Die Frankfurter Adressen sind von der offiziellen Seite jc-frankfurt.de/kontakt,
 
 Freie Fotos dieser Häuser gibt es kaum. Wikimedia Commons hat fast nur Bilder der Straße,
 nicht des Eingangs. Google Street View und Panoramax ließen sich aus der Arbeitsumgebung
-nicht abrufen. Was im PDF steckt, ist dort mit Urheber und Lizenz beschriftet.
+nicht abrufen. Wikimedia hat die Bilddownloads aus der Umgebung zudem dauerhaft gedrosselt. Das PDF verlinkt deshalb pro Haus Street View.
