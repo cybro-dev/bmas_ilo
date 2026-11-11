@@ -159,6 +159,12 @@ gedisst würde („Jobcenter ist voll cool"). Pana schützt ihn vor Shitstorms u
 selbst. Christian hatte das weniger nachvollziehen können. Ton: ruhig, wertschätzend,
 partnerschaftlich. Aus Frankfurt, kennt die Szene dort.
 
+**Erreichbarkeit:** Pana reagiert kaum auf Mails, **anrufen funktioniert** (0176 23408638).
+Am 09.11. am Telefon freundlich und kooperativ, aber beschäftigt; er hat einen
+**wöchentlichen Termin mit Elias** und klärt dort Termine
+([Telefonat 09.11.](korrespondenz/2026-11-09-lukas-telefonat-pana-salem.md)). Die zugesagte
+Rückmeldung vom 10.11. kam nicht; Lukas hat am 11.11. erneut nachgehakt.
+
 **Was Pana wichtig ist (Call 05.11.):**
 
 - **Ein Leitfaden mit Gesprächsthemen vorab** — nicht, um Fragen zu prüfen, sondern um zu

@@ -92,20 +92,24 @@ Elias hat im Call vom 05.11. erzählt: Vor Florian hatte er einen Berater („de
 Kadaver"). Er ist „manchmal verpeilt", hatte etwas vergessen mitzubringen, sich entschuldigt —
 und bekam beim nächsten Mal **20 % abgezogen**. Dann kam Florian.
 
-**Chris hat es am 05.11. Sascha zur Entscheidung vorgelegt:** „starker Kontrast, aber
-sensibel — aufgreifen oder aussparen?" **Antwort steht aus.** Risiko: Der Film ist für
-Jobcenter, eine Sanktionsgeschichte gegen einen Kollegen trifft die Zielgruppe. Chance: Sie ist
-der Kontrast, der Florians Haltung sichtbar macht. **Wenn, dann ohne Abrechnung** — nicht „der
-war scheiße", sondern „bei Florian konnte ich offen sagen, wie es aussieht". Für den Artikel
-ist sie Hintergrund. Bis Sascha antwortet: nicht in den Leitfaden, im Gespräch nur zuhören.
+**Saschas Antwort (06.11.2026):** „auch Leistungsminderungen gehören ehrlich dazu; ehrlich
+drüber sprechen; selbst kritisch sein und aufzeigen, wie es gelöst wurde; es sollte kein
+Eindruck entstehen, dass es einen Freifahrtsschein gab; auch sollte das Jobcenter nicht
+die böse Behörde sein." → **Darf vorkommen.** Elias selbstkritisch, Lösung zeigen; weder
+Freifahrtschein noch „böse Behörde", **keine Abrechnung mit dem Kollegen** — nicht „der war
+scheiße", sondern „bei Florian konnte ich offen sagen, wie es aussieht".
+([Beleg](korrespondenz/2026-11-06-bmas-kummer-antworten-frankfurt-musik-inhalt.md))
 
 ### Die verschobenen Termine
 
-Elias musste wegen der Musik Termine verschieben; Florian war flexibel. **BMAS produziert
-parallel ein Lernvideo zu Terminversäumnissen.** Chris hat Sascha am 03.11. gefragt, ob das
-als **Verlässlichkeit in beide Richtungen** erzählt werden darf (Elias hat sich gemeldet, neuer
-Termin, immer erreichbar) oder ganz ausgespart wird — **Antwort steht aus.** Bis dahin nicht
-aktiv aufgreifen; wenn Elias es erzählt, zuhören.
+Elias musste wegen der Musik Termine verschieben bzw. hat sie versäumt; Florian war flexibel.
+**BMAS produziert parallel ein Lernvideo zu Terminversäumnissen.**
+
+**Saschas Antwort (06.11.2026):** „ehrlicher Austausch ist wichtig; Termine wurden
+versäumt; Jobcenter ist aber dran geblieben und hat versucht zu erfahren, was die Gründe
+sind — es sollte deutlich werden, dass eine ehrliche Kommunikation hilft und Vertrauen
+dies auch befördert." → **Darf ins Gespräch**, ehrlich, mit dem Dranbleiben des Jobcenters
+und Vertrauen als Pointe. Chris hat zugesagt, das genau so in den Leitfaden zu nehmen.
 
 ### Leistungsbezug von Elias
 

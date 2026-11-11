@@ -1,8 +1,7 @@
 # Offene Punkte
 
-Stand: **05.11.2026, 16:00 Uhr** — nach dem Call mit Pana Salem, Elias, Chiara Fürst, Maurice
-Vink, der Nachbesprechung Chris/Lukas und Chris' drei Folgemails
-([Beleg](korrespondenz/2026-11-05-wieczorek-zusammenfassungen-nach-dem-call.md)).
+Stand: **11.11.2026** — nach Saschas Antworten (06.11.), Lukas' Telefonat mit Pana (09.11.)
+und Florians verfügbaren Tagen (11.11.).
 
 Erledigte Punkte wandern in die zugehörige Fachdatei. To-dos für Lukas zusätzlich in **Lyfe**
 (Projekt „ilo 7araga (BMAS / ROCC)").
@@ -13,20 +12,20 @@ Erledigte Punkte wandern in die zugehörige Fachdatei. To-dos für Lukas zusätz
 
 | # | Punkt | Bei wem | Frist / Stand |
 | --- | --- | --- | --- |
-| 1 | **Drehtermin:** zwei bis drei Tage in KW 47 oder 48 (im Call: ab 24.11. besser). Dann Florian/Stefan Schäfer, dann Zeitplan an Sascha | Pana → Chris → Florian | Pana bis Fr 06.11. |
-| 2 | **Wie wird das Jobcenter gezeigt?** a) Jobcenter nahe Frankfurt (ROCC-Empfehlung), b) Bahnhof Frankfurt, c) zweiter Drehtag Northeim. Entscheidet über Block 1 und die Location-Suche | **Sascha Kummer** | Mail vom 05.11., Antwort offen |
-| 3 | **Studio:** welches (das mit der Goldenen Schallplatte?), Preis für 3 h zum Sonderpreis | Elias + Pana | per Mail |
-| 4 | **Einverständnis von Elias** (Sozialdatenschutz) — vor dem Florian-Call, sonst darf Florian weder vor der Kamera noch mit nh offen sprechen | Chris → Elias | vor dem Florian-Call |
-| 5 | **Freistellung Florian** für den ganzen Tag, Anreise nach Frankfurt, Rückweg | Chris → Stefan Schäfer | nach #1 |
-| 6 | **Gesprächsleitfaden** (Themen je Station) an Pana/Elias **und** nh — zugesagt für Anfang KW 46. Rücklauf: Tabu-Themen | **Lukas + Chris** | **bis Di 10.11.** (Lyfe PRIO) |
-| 7 | **Verbindlicher Zeitplan an Sascha** inkl. Kosten — verschoben auf Anfang KW 46, braucht Florians Bestätigung | Chris | Anfang KW 46 |
-| 8 | **Musik vorab:** zwei, drei unveröffentlichte Tracks oder Beats von Elias/Pana, vertraulich; Verwertung klärt Pana danach mit Universal | Elias, Pana | vor dem Dreh |
+| 1 | **Drehtermin:** Elias' Tage fehlen. Florian kann 16.–19.11. und 25.–26.11.; im Call klang ab 24.11. besser → **wahrscheinlich 25. oder 26.11.** Pana hat die Rückmeldung für 10.11. nachmittags zugesagt, kam nicht; **Lukas hat am 11.11. erneut geschrieben** | Pana → Lukas/Chris | sofort — Lyfe (WAITING) |
+| 2 | **Jobcenter nahe Frankfurt auswählen** (Variante a ist von Sascha freigegeben). Kandidaten: [Jobcenter-Motiv](jobcenter-motiv.md). Möglichst nah am Studio → braucht #3 | ROCC schlägt vor → **Sascha fragt Dreherlaubnis an** | sobald Termin + Studio stehen |
+| 3 | **Studio:** welches (das mit der Goldenen Schallplatte?), Adresse, Preis für 3 h zum Sonderpreis | Elias + Pana | per Mail |
+| 4 | **Einverständnis von Elias** (Sozialdatenschutz) — vor dem Florian-Call, sonst darf Florian weder vor der Kamera noch mit nh offen sprechen. ⚠️ Unklar, ob das Formular schon raus ist | Chris → Elias | vor dem Florian-Call |
+| 5 | **Freistellung Florian** für den ganzen Tag, Anreise nach Frankfurt, Rückweg. Am 06.11. angefragt, **Stefan Schäfer hat noch nicht geantwortet**. ⚠️ ROCC-Mails landen im BA-Spamfilter | Chris → Stefan Schäfer | nach #1 |
+| 6 | **Gesprächsleitfaden** (Themen je Station, inkl. Saschas Vorgaben zu versäumten Terminen und Leistungsminderung) an Pana/Elias **und** nh — zugesagt für Anfang KW 46 | **Lukas + Chris** | war bis Di 10.11. (Lyfe PRIO) |
+| 7 | **Verbindlicher Zeitplan an Sascha** inkl. Kosten — kommt, sobald Florian einen Termin bestätigt hat | Chris | nach #1 |
+| 8 | **Musik vorab:** zwei, drei unveröffentlichte Tracks oder Beats, vertraulich. Im Film nur Musik mit **schriftlicher Nutzungsfreigabe** (Sascha: „SEHR WICHTIG"), sonst lizenzfrei | Elias, Pana | vor dem Dreh |
 
 ## 🟡 Zu klären, aber nicht blockierend
 
 | # | Punkt | Bei wem |
 | --- | --- | --- |
-| 9 | **Antwort von Sascha** auf Chris' Fragen: Kernbotschaft okay? Verschobene Termine als „Verlässlichkeit in beide Richtungen" oder aussparen? **Leistungskürzung beim früheren Berater aufgreifen oder aussparen?** ([heikle Themen](gespraechsfuehrung.md#heikle-themen)) | Sascha Kummer |
+| 9 | **Kernbotschaft:** Sascha hat zu Chris' Vorschlag vom 03.11. nicht ausdrücklich Stellung genommen (die Fragen zu Terminen und Leistungsminderung hat er am 06.11. beantwortet, siehe [heikle Themen](gespraechsfuehrung.md#heikle-themen)) | Sascha Kummer |
 | 10 | **Leistungsbezug von Elias heute** — unter vier Augen mit Florian oder Elias, nie vor Management/nh. Dass er 2023 Hartz IV bezog, hat er im ARD-Interview selbst gesagt | Lukas oder Chris |
 | 11 | **Fotos** von Elias: Wohngegend und Studio mit Schallplatte | Elias |
 | 12 | **Handynummer von Elias**, Orga-Kontakt für den Drehtag (Pana oder direkt?) | Pana |
@@ -35,7 +34,8 @@ Erledigte Punkte wandern in die zugehörige Fachdatei. To-dos für Lukas zusätz
 | 15 | **Kostenvoranschlag** an Katharina Mattar, inkl. Studio-Miete und Florians Reise | Chris |
 | 16 | **Look & Grading:** Musikvideo-Ästhetik (Pana) vs. roher Doku-Look (Lukas) — Sascha ist für alles offen | Lukas + Chris |
 | 17 | **Kamera-Person** und Auto-Rig (2 GoPros + 1 kleine Kamera; Lukas im Auto oder Walkie) | Lukas schlägt vor |
-| 18 | **Locations in Frankfurt:** Jobcenter-Außen oder Bahnhof (nach #2), „Zuhause", Landstraße in die Stadt | ROCC |
+| 18 | **Locations in Frankfurt:** Jobcenter-Außen (#2), „Zuhause", Landstraße in die Stadt | ROCC |
+| 18a | **Wanderausstellung:** Sascha fragt neues handeln, ob die Geschichte die Ausstellung ergänzen kann (Icon: Goldene Schallplatte). Maurice: „nehmen wir mit". Betrifft den Film nicht direkt | neues handeln |
 
 ## 🟢 Für Lukas (in Lyfe)
 
@@ -51,4 +51,4 @@ Erledigte Punkte wandern in die zugehörige Fachdatei. To-dos für Lukas zusätz
 | # | Punkt |
 | --- | --- |
 | 23 | **Zusammenfassungs-PDF vom Call 29.10.** (Chris → Sascha) liegt nicht vor — bei Chris anfragen, falls nötig |
-| 24 | Sobald Panas Antwort und Saschas Antwort da sind: #1, #2, #3, #9, #12 abgleichen |
+| 24 | Sobald Panas Antwort da ist: #1, #2, #3, #12 abgleichen |

@@ -6,9 +6,9 @@ Arbeitsvermittler **Florian Radtke** vom Jobcenter Landkreis Northeim. Produzier
 **Regie: Lukas Hablitzel** (übernommen von Christian Martin Schäfer, der im Urlaub ist;
 Lukas hat für SGB2.info zuvor „Zwischenstopp" gedreht).
 
-Stand: **05.11.2026, nach dem Call mit Management, Elias und neues handeln** und Chris'
-drei Folgemails. Drehtag noch nicht terminiert, Ziel **KW 47/48 (16.–27.11.2026)**, Drehort
-**Frankfurt**. Sascha muss noch entscheiden, wie das Jobcenter gezeigt wird.
+Stand: **11.11.2026.** Drehtag noch nicht terminiert, Ziel **KW 47/48**, Drehort **Frankfurt**.
+Sascha hat am 06.11. die Jobcenter-Variante a) freigegeben (Jobcenter nahe Frankfurt).
+**Florian kann 16.–19.11. und 25.–26.11.2026**, die Tage von Elias/Pana fehlen noch.
 
 Dieses Repo ist die Wissensbasis dafür: was **feststeht**, was **besprochen** wurde,
 und was noch **offen** ist.
@@ -90,6 +90,7 @@ ROCC Film, Schönhauser Allee 128, 10437 Berlin. Buchungsseite: `mail@roccfilm.d
 | Gesprächsführung: Leitfaden pro Set, Wording, heikle Themen, Einzelinterviews | [Gesprächsführung](docs/gespraechsfuehrung.md) |
 | Leitfaden-Entwurf fürs PDF an Pana/Elias/nh, mit internen Notizen | [Leitfaden-Entwurf](docs/leitfaden-entwurf.md) |
 | Drehtag: Ablaufplan Frankfurt, Tageslicht, Technik, Logistik | [Drehtag](docs/drehtag.md) |
+| Jobcenter-Motiv für die Abholszene: Kandidaten in und um Frankfurt, Entfernung zum Hbf | [Jobcenter-Motiv](docs/jobcenter-motiv.md) |
 | Zeitplan bis zur Veröffentlichung | [Zeitplan](docs/zeitplan.md) |
 | Was noch geklärt werden muss | [Offene Punkte](docs/offene-punkte.md) |
 | Ideen und Vorschläge, ungeprüft | [Ideen](docs/ideen.md) |
@@ -102,11 +103,11 @@ ROCC Film, Schönhauser Allee 128, 10437 Berlin. Buchungsseite: `mail@roccfilm.d
 | Randbedingung | Wert | Konsequenz |
 | --- | --- | --- |
 | **Ein Drehtag** | Vorgabe von Sascha Kummer | Alle Teile an einem Tag, Reihenfolge im Film = Reihenfolge des Tages |
-| **Drehort Frankfurt** | Elias' Studio ist in Frankfurt, Northeim liegt 2–3 h entfernt | „Zuhause" und Fahrt werden in/um Frankfurt nachgestellt, Florian reist an. **Wie das Jobcenter gezeigt wird, entscheidet Sascha:** a) Jobcenter nahe Frankfurt (ROCC-Empfehlung), b) Bahnhof Frankfurt, c) zweiter Drehtag Northeim |
-| **Drehtermin** | Ziel KW 48 (ab 24.11.), KW 47 hat Elias einen Studiotermin | Pana nennt Daten; dann Florian, dann Zeitplan an Sascha |
+| **Drehort Frankfurt** | Elias' Studio ist in Frankfurt, Northeim liegt 2–3 h entfernt | „Zuhause" und Fahrt werden in/um Frankfurt nachgestellt, Florian reist an. **Abholszene vor einem Jobcenter nahe Frankfurt** (Sascha, 06.11.: Variante a). ROCC schlägt das Jobcenter vor, **Sascha fragt dort die Dreherlaubnis an. Jobcenter Northeim muss im Film genannt werden.** Kandidaten: [Jobcenter-Motiv](docs/jobcenter-motiv.md) |
+| **Drehtermin** | KW 47/48. **Florian kann Mo–Do 16.–19.11. und Mi/Do 25.–26.11.** Elias hat in KW 47 einen Studiotermin in Stuttgart, im Call klang ab 24.11. besser | Wahrscheinlich **25. oder 26.11.** — Pana muss noch Elias' Tage nennen, dann Zeitplan an Sascha |
 | **Tageslicht** | Ende November ab ca. 15:30–16:00 dunkel | Autofahrt, Außen und „Elias geht zum Auto" **vor 15 Uhr**; Studio ist Kunstlicht und kann danach kommen |
 | **Kein Album-Promofilm** | BMAS-Vorgabe, Sascha wörtlich | Albumtitel, Cover, Release-Termin kommen **nicht** in den Film. Musik im Studio ist ein Moment für Florian |
-| **Musikrechte** | Veröffentlichte Songs nur mit Freigabe des Vertriebs (Universal), sonst Takedown | **Unveröffentlichte Skizzen, Freestyle, Beat-only sind unproblematisch** — darauf setzen |
+| **Musikrechte** | Veröffentlichte Songs nur mit Freigabe des Vertriebs (Universal), sonst Takedown | **Unveröffentlichte Skizzen, Freestyle, Beat-only sind unproblematisch** — darauf setzen. Sascha: „SEHR WICHTIG" — nur Musik mit **schriftlicher Nutzungsfreigabe**, sonst lizenzfrei |
 | **Kein Honorar für Elias** | Management hat ausdrücklich verzichtet | Geld nicht neu aufmachen. TikTok-Clips vom Tisch. Für Elias fallen in Frankfurt kaum Reisekosten an, dafür reist Florian an; Studio-Miete geht in den Kostenvoranschlag |
 | **Studio-Miete** | 500 €/Tag groß, ca. 350 € klein; Pana fragt 3 h zum Sonderpreis an | Höhe geht in Kostenvoranschlag und Zeitplan an Sascha |
 | **Abnahme** | Elias, Management, Jobcenter geben frei, **Letztabnahme BMAS** | Film darf Elias' Marke nicht schaden. Danach darf Elias ihn auf seinen Kanälen teilen |
