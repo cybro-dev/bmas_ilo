@@ -45,24 +45,33 @@ ilo-Song. „Haraga" von Diyarue/Serko/Adem ist Staffel 2.
 (mit Ataypapi, Olexesh, DE-Charts Platz 11, April 2024) laut Websuche — möglicherweise der
 „Durchbruch-Song danach", mit Elias klären.
 
-## Welche Folgen? (Staffel 1, 40 Folgen)
+## In welchen Folgen ist ilo? (Stand Plex, 11.11.2026)
 
-| Plex | Runde | Folgen | ilo 7araga |
+**Methode:** Die Songs der Teilnehmer erschienen auf @raplarue parallel zu den Folgen. In
+Runde 1 und 2 **am selben Tag** wie die Folge, in der sie auftreten (Muster über alle 194
+Songs hinweg eindeutig). In Runde 3 und 4 jeweils am **Donnerstag nach** der Sonntagsfolge.
+Daten aus den eingebetteten Metadaten der Dateien auf dem [Plex-Server](plex-server.md).
+Untertitel-Suche war nicht möglich (YouTube blockt auch die Server-IP).
+
+Nummern = Plex-Serie „Rap La Rue", Staffel 1 (mit Bewerbungs-Streams, daher E001–E056).
+
+| Plex | Folge | ilo 7araga | Sicherheit |
 | --- | --- | --- | --- |
-| S01E01–E18 | Runde 1 · Casting | 18 × ca. 20 min | in mindestens einer Folge (Bisou) — **welche, noch offen** |
-| S01E19–E28 | Runde 2 · Top 40 | 10 × ca. 30 min | in mindestens einer Folge (Va Bene) — **welche, noch offen** |
-| S01E29–E31 | Runde 3 · Gruppen | 3 × 25–60 min | **sehr wahrscheinlich in allen** (Gruppe 3) |
-| S01E32–E39 | Runde 4 · Finale/Villa | 8 × 45–70 min | **sehr wahrscheinlich in allen** |
-| S01E40 | Grand Finale · Live-Show | 35 min | ⚠️ unbestätigt |
+| E001–E014 | Aufruf + 13 Bewerbungs-Streams (Jan.–März 2023) | ⚠️ offen — ob seine Bewerbung gezeigt wird | – |
+| **E026** | **R1·F12 – An die Grenze** (30.07.2023) | **„Bisou"** — sein erster Auftritt | **sicher** (selber Tag) |
+| **E036** | **R2·F02 – Top 40** (24.09.2023) | **„Va Bene"** | **sicher** (selber Tag) |
+| E044 | R2·F10 – Letzte Folge & Joker (22.10.2023) | am selben Tag RLR-Cypher mit ilo | vermutlich |
+| E045 | R3·F01 – Stress in der Luft (07.01.2024) | Gruppe 3, „Sabado" | vermutlich |
+| E046–E047 | R3·F02–F03 bis „Wer kommt in die Villa?" | Gruppe 3, kommt in die Villa | vermutlich |
+| E048–E055 | Finale 1/8 – 8/8 (Villa, Feb.–März 2024) | in allen; Songs: Paff paff → E049, Substanzen → E051, Ich lieb ich dich → E052, Luna → E053, Casablanca → E054, Ice → E055 | vermutlich |
+| E056 | Grand Finale – Live-Show (14.04.2024) | RLR Connect erschien 4 Tage danach | ⚠️ unbestätigt |
 
-Die genaue Zuordnung für Runde 1 und 2 liefert der Untertitel-Scan des Skripts
-(`werkzeuge/rap-la-rue-plex/`), der bei Lukas lokal laufen muss: YouTube blockt den Abruf
-einzelner Videos aus der Cloud-Session (Bot-Check). Die Song-Playlists sind nach
-Beliebtheit sortiert, nicht nach Folge — daraus lässt sich die Folge nicht ableiten.
-Ergebnis des Scans hier nachtragen.
+**Zum Anschauen zuerst:** E026 (Runde 1, die Fahrt mit dem Führerschein), dann E036, E045,
+E047. In Plex: ★ = sicher, ☆ = vermutlich, Label „ilo 7araga" / „ilo 7araga (vermutlich)".
 
-Komplette Episodenliste aller Staffeln mit YouTube-IDs:
-[`werkzeuge/rap-la-rue-plex/rlr_episoden.json`](../werkzeuge/rap-la-rue-plex/rlr_episoden.json).
+Weitere ilo-Videos rund um die Show (Plex „Rap La Rue – Musikvideos"): Cypher (22.10.2023),
+Bona (07.09.2023), Danse, Normal (Nov. 2023), Vlog „2 Harragas in Italien" mit Aymen und
+Beretta (01.02.2024).
 
 ## Fürs Gespräch
 

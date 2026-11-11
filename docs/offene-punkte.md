@@ -39,7 +39,7 @@ To-dos mit Frist für Lukas zusätzlich in **Lyfe** (Projekt „ilo 7araga (BMAS
 | --- | --- |
 | 16 | **ARD-Interview mit ilo 7araga ansehen** (hr, „Deutschrap ideal") — Saschas Empfehlung zum Einlesen |
 | 17 | **Schnitt-Zeit Anfang Dezember blocken** — Rohschnitt ca. 1 Woche nach Dreh, Letztabnahme 09.12. |
-| 20 | **Rap-La-Rue-Skript lokal laufen lassen** (`scan --staffel 1`, dann `plex`) — klärt, in welchen Folgen von Runde 1 und 2 ilo vorkommt. Ergebnis in [Rap La Rue](rap-la-rue.md) nachtragen |
+| 20 | **Rap La Rue in Plex ansehen** — zuerst E026 (Runde 1, „Bisou"), dann E036, E045, E047 ([Rap La Rue](rap-la-rue.md)). Offen: zeigen die Bewerbungs-Streams E002–E014 Elias' Bewerbung? |
 | 18 | Chris um die **Call-Zusammenfassung vom 29.10.** und ggf. **Elias' Album-Präsentation** (PDF vom Jobcenter) bitten — beide noch nicht im Repo |
 
 ## Repo-intern

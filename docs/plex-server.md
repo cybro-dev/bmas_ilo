@@ -34,6 +34,8 @@ tailscale ssh root@plex 'hostname'
   Server erledigen**, dort mit `curl http://127.0.0.1:32400/…`. Von hier aus geht HTTP
   nur mit Python über `http://127.0.0.1:1056` als Proxy.
 - `tailscale ssh` nimmt keine `-o`-Optionen.
+- YouTube blockt (Stand 11.11.2026) auch die Server-IP per Bot-Check (Untertitel-Abruf
+  scheiterte). Keine Umgehung versuchen; was in den Dateien steckt, mit `ffprobe` lesen.
 - Jede Session meldet sich als neues Gerät an (viele alte `claude-cloud-*` im Tailnet).
   Aufräumen in der Tailscale-Admin-Konsole oder einen *ephemeral* Key verwenden.
 
@@ -58,6 +60,10 @@ Plex-Bibliotheken: **„Series"** (key 4, `…/Series/`), **„Musik"** (Musikvi
 | **Rap La Rue, Staffel 1** — 56 Folgen DelarueTV: E001–E014 Bewerbungs-Streams, E015–E032 Runde 1, E033–E034 Behind the Scenes, E035–E044 Runde 2, E045–E047 Runde 3, E048–E055 Finale, E056 Live-Show | `Series/Rap La Rue/Season 01/` | `~/folgen.tsv` |
 | **Rap La Rue – Musikvideos** (194, alle Songs der Staffel 1) | `Series/Rap La Rue - Musikvideos/Season 01/` | `~/musikvideos.tsv` |
 | **ilo 7araga Musikvideos** (17, außerhalb der Show) | `Music Videos/` | `~/ilo.tsv` |
+
+**Beschriftet am 11.11.2026** mit `werkzeuge/rap-la-rue-plex/plex_server_tag.py`: deutsche
+Titel, ★/☆ und Labels für ilo-Folgen, Beschreibungen, Datum. Sicherung der alten Werte:
+`/root/rlr-plex-backup-20261111-114912.json`. Ergebnis: [Rap La Rue](rap-la-rue.md).
 
 Download-Skript: `~/raplarue-s1.sh` (Log `~/raplarue-s1.log`) — wartet bei YouTube-Block
 15 min und versucht es erneut, scannt danach die Bibliothek.

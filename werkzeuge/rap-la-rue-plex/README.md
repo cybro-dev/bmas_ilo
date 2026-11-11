@@ -3,14 +3,22 @@
 Füllt die Plex-Metadaten der heruntergeladenen Rap-La-Rue-Folgen auf und sucht, in welchen
 Folgen ilo 7araga vorkommt. Hintergrund und Ergebnisse: [docs/rap-la-rue.md](../../docs/rap-la-rue.md).
 
-**Läuft lokal** (Rechner im selben Netz wie der Plex-Server). Aus der Cloud-Session blockt
-YouTube den Abruf einzelner Videos.
+> **Stand 11.11.2026: erledigt mit `plex_server_tag.py`.** Das Skript lief per
+> `tailscale ssh root@plex 'python3 - --apply' < plex_server_tag.py` direkt auf dem Server
+> (Zugang: [docs/plex-server.md](../../docs/plex-server.md)). Es nimmt die Titel und Daten aus den
+> Dateien selbst und ordnet ilo über die Upload-Daten seiner Songs zu, ganz ohne YouTube.
+> Sicherung der alten Plex-Werte: `/root/rlr-plex-backup-20261111-114912.json` auf dem Server.
+>
+> `rlr_plex.py` (unten) ist der ursprüngliche Weg über YouTube-Untertitel. Er geht erst wieder,
+> wenn YouTube die Server-IP nicht mehr blockt, und arbeitet mit anderer Nummerierung
+> (ohne Bewerbungs-Streams).
 
 ## Dateien
 
 | Datei | Inhalt |
 | --- | --- |
-| `rlr_plex.py` | das Skript (`scan`, `plex`, `rename`) |
+| `plex_server_tag.py` | **benutzt:** beschriftet die 56 Folgen auf dem Server (Titel, ★/☆, Beschreibung, Datum, Labels) |
+| `rlr_plex.py` | Alternative über YouTube-Untertitel (`scan`, `plex`, `rename`) |
 | `rlr_episoden.json` | 122 Videos, alle von **DelarueTV**: die 107 aus „RAP LA RUE – ALLE FOLGEN" plus 13 Bewerbungs-Streams und 2 Behind-the-Scenes-Vlogs (Specials). YouTube-ID, Staffel, Runde, Folge, sauberer Titel |
 | `rlr_scan.json`, `rlr_ilo_report.md` | entstehen beim `scan` |
 
