@@ -90,6 +90,7 @@ ROCC Film, Schönhauser Allee 128, 10437 Berlin. Buchungsseite: `mail@roccfilm.d
 | Gesprächsführung: Leitfaden pro Set, Wording, heikle Themen, Einzelinterviews | [Gesprächsführung](docs/gespraechsfuehrung.md) |
 | Leitfaden-Entwurf fürs PDF an Pana/Elias/nh, mit internen Notizen | [Leitfaden-Entwurf](docs/leitfaden-entwurf.md) |
 | Drehtag: Ablaufplan Frankfurt, Tageslicht, Technik, Logistik | [Drehtag](docs/drehtag.md) |
+| Rap La Rue: welche Videos und Folgen mit Elias | [Rap La Rue](docs/rap-la-rue.md) |
 | Jobcenter-Motiv für die Abholszene: Kandidaten in und um Frankfurt, Entfernung zum Hbf | [Jobcenter-Motiv](docs/jobcenter-motiv.md) |
 | Zeitplan bis zur Veröffentlichung | [Zeitplan](docs/zeitplan.md) |
 | Was noch geklärt werden muss | [Offene Punkte](docs/offene-punkte.md) |

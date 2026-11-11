@@ -79,8 +79,8 @@ arbeitet mit Kindheitsfotos). Abstrakte Fragen beantwortet er kurz, konkrete lan
 
 | Was | Details |
 | --- | --- |
-| **Casting-Show** | **Rap La Rue**, Finale 2024, Elias Top 5. Angemeldet am letzten Tag — „mein Hartz IV kommt erst am 1., ich habe mich am 30. beworben" |
-| **Partner** | ⚠️ „Amen/Aimon/Eamon" (Schreibweise unbestätigt) — Elias hat ihn für Rap La Rue angemeldet, gegen dessen Willen; Studio in Stuttgart. Gemeinsames Projekt, „eine Milliarde Streams" |
+| **Casting-Show** | **Rap La Rue**, Staffel 1, Finale 2024, Elias Top 5. Alle Videos mit ihm: [Rap La Rue](rap-la-rue.md). Angemeldet am letzten Tag — „mein Hartz IV kommt erst am 1., ich habe mich am 30. beworben" |
+| **Partner** | **Aymen** (so in den Rap-La-Rue-Videotiteln; Transkripte: „Amen/Aimon/Eamon") — Elias hat ihn für Rap La Rue angemeldet, gegen dessen Willen; Studio in Stuttgart. Gemeinsames Projekt, „eine Milliarde Streams" |
 | **Produzent** | **Noel** — von Anfang an dabei, hat an ihn geglaubt, als Elias kein Geld hatte; bekam gleichzeitig mit Elias einen Deal. Vermutlich der Produzent, der am Drehtag im Studio sitzt |
 | **Künstlername** | „ilo" reichte ihm nicht; „7araga" (Haraga) hat er vom Hörproben-Namen seines späteren Partners übernommen, bevor sie sich kannten |
 | **Lieblingssong** | „Luna" mit Luke Cry, entstanden in 3–4 Stunden in einer gewonnenen Snipes-Session in Berlin |
