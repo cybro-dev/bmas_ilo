@@ -36,6 +36,9 @@ eine Archivliste.
    `CONTEXT.md`.
 4. **Commit und Push** auf den Arbeitsbranch, damit die nächste Session den Stand hat.
 
+**Plex-Server** (Recherche-Material, z. B. Rap La Rue): nur über Tailscale erreichbar,
+Key in `TS_AUTH_KEY` — Anleitung in `docs/plex-server.md`.
+
 **To-dos und Zeiterfassung laufen in Lyfe** (Projekt „ilo 7araga (BMAS / ROCC)").
 `offene-punkte.md` hält die *inhaltlichen* Fragen und wer sie beantwortet; was Lukas
 selbst tun muss, zusätzlich als Lyfe-Task anlegen.
