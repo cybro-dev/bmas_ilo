@@ -38,6 +38,9 @@ eine Archivliste.
    `CONTEXT.md`.
 4. **Direkt auf `main` committen und pushen** — keine Branches, keine PRs (Lukas' Vorgabe).
 
+**Plex-Server** (Recherche-Material, z. B. Rap La Rue): nur über Tailscale erreichbar,
+Key in `TS_AUTH_KEY` — Anleitung in `docs/plex-server.md`.
+
 **To-dos und Zeiterfassung laufen in Lyfe**, Projekt „ilo 7araga (BMAS / ROCC)", Task
 „Calls & Abstimmung" für Gesprächszeiten. `offene-punkte.md` hält die *inhaltlichen*
 Fragen und wer sie beantwortet; was Lukas selbst tun muss, zusätzlich als Lyfe-To-do.

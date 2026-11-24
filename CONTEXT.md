@@ -93,6 +93,9 @@ ROCC Film, Schönhauser Allee 128, 10437 Berlin. Buchungsseite: `mail@roccfilm.d
 | Rap La Rue: welche Videos und Folgen mit Elias | [Rap La Rue](docs/rap-la-rue.md) |
 | Jobcenter-Motiv für die Abholszene: Kandidaten in und um Frankfurt, Entfernung zum Hbf | [Jobcenter-Motiv](docs/jobcenter-motiv.md) |
 | Zeitplan bis zur Veröffentlichung | [Zeitplan](docs/zeitplan.md) |
+| Rap La Rue: die Castingshow, ilos Songs pro Runde, welche Folgen | [Rap La Rue](docs/rap-la-rue.md) |
+| Plex-Server: Zugang über Tailscale, was dort liegt | [Plex-Server](docs/plex-server.md) |
+| Skript: Rap-La-Rue-Folgen in Plex beschriften, ilo-Auftritte finden | [werkzeuge/rap-la-rue-plex](werkzeuge/rap-la-rue-plex/) |
 | Was noch geklärt werden muss | [Offene Punkte](docs/offene-punkte.md) |
 | Ideen und Vorschläge, ungeprüft | [Ideen](docs/ideen.md) |
 | Mails, Call-Protokolle, Transkript, Original-PDFs | [Korrespondenz](docs/korrespondenz/) |

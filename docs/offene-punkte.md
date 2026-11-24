@@ -45,6 +45,7 @@ Erledigte Punkte wandern in die zugehörige Fachdatei. To-dos für Lukas zusätz
 | 20 | **ARD-Interview** ansehen: https://www.ardmediathek.de/video/deutschrap-ideal/ilo-7araga-im-interview-mit-simon/hr/ZGM3ODk0NTYtMGZhZC00OTcxLTk1ZDItNGJiMmY4MTNlOGQy |
 | 21 | Kamera-Person vorschlagen (= #17) |
 | 22 | Schnitt-Zeit Anfang Dezember blocken |
+| 22a | **Rap La Rue in Plex ansehen** — zuerst E026 (Runde 1, „Bisou"), dann E036, E045, E047 ([Rap La Rue](rap-la-rue.md)). Offen: zeigen die Bewerbungs-Streams E002–E014 Elias' Bewerbung? |
 
 ## Repo-intern
 
