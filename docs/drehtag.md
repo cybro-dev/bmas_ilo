@@ -17,7 +17,7 @@ Die Gespräche pro Block: [Gesprächsliste](gespraechsfuehrung.md#gesprächslist
 
 ## Ablauf Mi 25.11. (Stand 24.11. abends, von Lukas)
 
-Ersetzt die Zeiten aus dem Drehplan vom 20.11. Spickzettel für den Dreh als Claude-Doc:
+Ersetzt die Zeiten aus dem Drehplan vom 20.11. Spickzettel als PDF: [drehtag-spickzettel-2026-11-25.pdf](drehtag-spickzettel-2026-11-25.pdf), als Claude-Doc:
 https://claude.ai/artifact/3Sy4WwEZDpWdTZhW1JSiXR
 
 | Zeit | Was |
