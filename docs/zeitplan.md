@@ -18,12 +18,14 @@ Vorgaben von Sascha Kummer (29.10.): verbindlicher Zeitplan, **Abrechnung gegen�
 | Fr 06.11.2026 | Pana nennt mögliche Drehtage in KW 47/48; Studio-Preis; Fragenkatalog an Chiara | Pana | ⏳ nicht gekommen |
 | Mo 09.11. | Lukas ruft Pana an — Rückmeldung zugesagt für Di 10.11. nachmittags | Lukas | ✅ / ⏳ kam nicht, Lukas hakt am 11.11. erneut nach |
 | Mi 11.11. | **Florian nennt seine Tage:** 16.–19.11. und 25.–26.11. | Florian | ✅ |
-| Fr 06.11. | ~~Verbindlicher Zeitplan an Sascha~~ — **verschoben auf Anfang KW 46**, nach Florians Bestätigung | Chris | verschoben |
-| vor dem Florian-Call | Elias' Einverständnis (Datenschutz) einholen | Chris → Elias | ⏳ |
-| **Anfang KW 46 (ab Mo 09.11.)** | **Gesprächsleitfaden** an Pana/Elias und nh (Lukas + Chris); **verbindlicher Zeitplan an Sascha** | Lukas, Chris | ⏳ Lyfe-Frist 10.11. |
-| KW 46 | **Call mit Florian** (Lukas, Chris, Chiara/Maurice) | Chris organisiert | ⏳ |
-| danach | Kostenvoranschlag an Katharina Mattar (inkl. Studio, Florians Reise); Drehplan; Locations in Frankfurt | Chris, Lukas | ⏳ |
-| **KW 47 oder 48** — Florian kann 16.–19. und 25.–26.11. | **Drehtag** in Frankfurt — wahrscheinlich **25. oder 26.11.** (Elias ab 24.11. besser) | alle | ⏳ Elias' Tage fehlen |
+| Mi 11.11. | **Pana bestätigt den 25.11.**, Studio 301 für 250 €; Chris bestätigt, Florian kann auch | Pana, Chris | ✅ |
+| Di 17.11. | **Leitfaden** an Pana/Elias und nh; Technik-Call ROCC/Lukas/Eric | Chris | ✅ / ⚠️ keine Rückmeldung gefunden |
+| Mi 18.11., 10:00 | **Vorgespräch Florian** (Lukas, Chris, Chiara, Maurice) | Chris | ✅ ⚠️ keine Notizen im Repo |
+| Fr 20.11. | **Drehplan** an alle | Chris | ✅ |
+| Mo 23.11. | Musikskizzen von Elias an Lukas | Elias, Pana | ⚠️ Stand unbekannt |
+| Di 24.11. | Anreise Lukas + Eric, Scouting | Lukas, Eric | |
+| **Mi 25.11.2026** | **Drehtag** in Frankfurt ([Drehtag](drehtag.md)) | alle | |
+| Do 26.11. | Rückreise | Lukas, Eric | |
 | ca. 1 Woche nach Dreh | Rohschnitt an BMAS und zur Freigabe an Elias, Management, Jobcenter | ROCC | |
 | **bis Mi 09.12.2026** | **Letztabnahme BMAS** | Sascha Kummer | |
 | Do 10.12.2026 | Abrechnung gegenüber neues handeln | ROCC | |

@@ -24,3 +24,6 @@ Mails liegen in Lukas' Gmail (Suchbegriffe: `ilo 7araga`, `roccfilm`).
 | [06.11.](2026-11-06-rocc-update-jobcenter-northeim.md) | **Chris an Stefan Schäfer und Florian Radtke:** Dreh in Frankfurt, Bitte um Florians Tage in KW 47/48 und Freistellung, Vorgespräch mit Lukas |
 | [09.11.](2026-11-09-lukas-telefonat-pana-salem.md) | **Lukas ruft Pana Salem an:** Drehtermine klärt Pana am 10.11. (13–14 Uhr) mit Elias, Rückmeldung am 10.11. nachmittags (kam nicht) |
 | [11.11.](2026-11-11-radtke-verfuegbare-drehtage.md) | **Florian Radtke nennt seine Tage:** 16.–19.11. und 25.–26.11.2026 |
+| [11.11.](2026-11-11-salem-zusage-drehtag-studio.md) | **Pana bestätigt den 25.11.**, Studio 301 (250 € / 3 h), Hotelkosten Elias; Chris bestätigt, Florian kann auch |
+| [17.11.](2026-11-17-wieczorek-leitfaden-an-management.md) | **Gesprächsleitfaden an Pana/Elias**, cc nh — verschickte Fassung mit PDF-Text, „Hauch Musikvideo" |
+| [20.11.](2026-11-20-wieczorek-drehplan-25-11.md) | **Drehplan Mi 25.11.** an alle — Zeiten, Motive, Kontakte, Florians Zug |

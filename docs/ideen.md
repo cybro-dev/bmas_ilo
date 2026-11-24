@@ -83,6 +83,24 @@ Was für uns daraus zu holen ist: Babo zeigt, wie viel Nähe eine Handkamera im 
 Hinterzimmern erzeugt — genau unser Set. Pana wird eher an Babo und Apache denken, wenn er
 „hochwertig" sagt. Der Unterschied bleibt: wir erzählen keinen Absturz, sondern eine Beziehung.
 
+## Bildsprache „Hauch Musikvideo" (24.11.2026)
+
+Aus Lukas' Frage am Vortag des Drehs. Der Musikvideo-Effekt kommt vor allem daher, dass
+**Elias' Skizzen den Schnitt antreiben** (auf den Beat geschnitten in Block 1 und in den
+Fahrt-Zwischenbildern), nicht daher, dass er rappt. Die Gespräche selbst bleiben lang stehen.
+
+**Referenzen:** das Video zu „Pistoleta" und Elias' eigene Clips (der Film soll zu seinen Kanälen
+passen) · Pashanim (Handkamera, Straße, nah) · Apache 207 „Roller" (Auto als Bühne) ·
+Kiarostami „Ten" (zwei Kameras am Armaturenbrett, Gespräch, lange Takes, fast unser Setup) ·
+„Drive" (Nachtfahrt, Lichter auf Gesichtern) · „Comedians in Cars Getting Coffee"
+(Kamerapositionen, Wechsel innen/außen) · „jeen-yuhs" (Studio, intim) · Babo-Doku
+(siehe unten) · COLORS-Sessions als Gegenpol fürs Foto.
+
+**Shots:** Führerschein-Close-up als mögliches erstes Bild · Hand am Lenkrad · Spiegelungen in
+der Scheibe · Stadt aus dem fahrenden Auto · Elias stumm direkt in die Linse · Ankunft am
+Studio von unten · Kapitelkarten in fetter Typo. **Wenig Slow-Mo** (das ist der alte
+BMAS-Look), lieber Echtzeit, Speed-Ramps, Jump Cuts. Kontrast, Korn, Studiolicht so lassen.
+
 ## Zum Konzept
 
 - **Der Führerschein als Requisite.** Er ist der rote Faden, taucht im Konzept aber nur als

@@ -6,9 +6,10 @@ Arbeitsvermittler **Florian Radtke** vom Jobcenter Landkreis Northeim. Produzier
 **Regie: Lukas Hablitzel** (übernommen von Christian Martin Schäfer, der im Urlaub ist;
 Lukas hat für SGB2.info zuvor „Zwischenstopp" gedreht).
 
-Stand: **11.11.2026.** Drehtag noch nicht terminiert, Ziel **KW 47/48**, Drehort **Frankfurt**.
-Sascha hat am 06.11. die Jobcenter-Variante a) freigegeben (Jobcenter nahe Frankfurt).
-**Florian kann 16.–19.11. und 25.–26.11.2026**, die Tage von Elias/Pana fehlen noch.
+Stand: **24.11.2026.** **Drehtag ist Mittwoch, 25.11.2026, in Frankfurt.** Abholen am
+Jobcenter Frankfurt Nord (im Film: Northeim), Studio: Studios 301. Kamera: Eric Maier-Rehm.
+Drehplan und Gesprächsliste: [Drehtag](docs/drehtag.md),
+[Gesprächsführung](docs/gespraechsfuehrung.md#gesprächsliste-drehtag-mi-25112026).
 
 Dieses Repo ist die Wissensbasis dafür: was **feststeht**, was **besprochen** wurde,
 und was noch **offen** ist.
@@ -108,7 +109,7 @@ ROCC Film, Schönhauser Allee 128, 10437 Berlin. Buchungsseite: `mail@roccfilm.d
 | --- | --- | --- |
 | **Ein Drehtag** | Vorgabe von Sascha Kummer | Alle Teile an einem Tag, Reihenfolge im Film = Reihenfolge des Tages |
 | **Drehort Frankfurt** | Elias' Studio ist in Frankfurt, Northeim liegt 2–3 h entfernt | „Zuhause" und Fahrt werden in/um Frankfurt nachgestellt, Florian reist an. **Abholszene vor einem Jobcenter nahe Frankfurt** (Sascha, 06.11.: Variante a). ROCC schlägt das Jobcenter vor, **Sascha fragt dort die Dreherlaubnis an. Jobcenter Northeim muss im Film genannt werden.** Kandidaten: [Jobcenter-Motiv](docs/jobcenter-motiv.md) |
-| **Drehtermin** | KW 47/48. **Florian kann Mo–Do 16.–19.11. und Mi/Do 25.–26.11.** Elias hat in KW 47 einen Studiotermin in Stuttgart, im Call klang ab 24.11. besser | Wahrscheinlich **25. oder 26.11.** — Pana muss noch Elias' Tage nennen, dann Zeitplan an Sascha |
+| **Drehtermin** | **Mi 25.11.2026**, Frankfurt | Drehplan vom 20.11., Abrechnung bis 10.12. → Schnitt direkt danach |
 | **Tageslicht** | Ende November ab ca. 15:30–16:00 dunkel | Autofahrt, Außen und „Elias geht zum Auto" **vor 15 Uhr**; Studio ist Kunstlicht und kann danach kommen |
 | **Kein Album-Promofilm** | BMAS-Vorgabe, Sascha wörtlich | Albumtitel, Cover, Release-Termin kommen **nicht** in den Film. Musik im Studio ist ein Moment für Florian |
 | **Musikrechte** | Veröffentlichte Songs nur mit Freigabe des Vertriebs (Universal), sonst Takedown | **Unveröffentlichte Skizzen, Freestyle, Beat-only sind unproblematisch** — darauf setzen. Sascha: „SEHR WICHTIG" — nur Musik mit **schriftlicher Nutzungsfreigabe**, sonst lizenzfrei |

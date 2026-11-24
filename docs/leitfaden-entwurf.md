@@ -1,5 +1,9 @@
 # Gesprächsleitfaden Drehtag — Entwurf
 
+> ⚠️ **Überholt.** Verschickt wurde am 17.11.2026 eine andere Fassung:
+> [Beleg](korrespondenz/2026-11-17-wieczorek-leitfaden-an-management.md). Die Arbeitsliste für
+> den Drehtag steht in [Gesprächsführung](gespraechsfuehrung.md#gesprächsliste-drehtag-mi-25112026).
+
 **Stand 06.11.2026, Entwurf von Lukas für Chris.** Geht nach Abstimmung als PDF an Pana Salem,
 Elias und neues handeln (zugesagt für Anfang KW 46). Teil A ist der Text fürs PDF, Teil B
 sind interne Notizen und gehören **nicht** hinein.
