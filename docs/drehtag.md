@@ -22,7 +22,7 @@ https://claude.ai/artifact/3Sy4WwEZDpWdTZhW1JSiXR
 
 | Zeit | Was |
 | --- | --- |
-| vor 08:30 | Einverständniserklärung im Hotel drucken, Catering fürs Auto besorgen |
+| vor 08:30 | 10 Bildrechte-Einwilligungen im Hotel drucken, Catering fürs Auto besorgen. Unterschriften von allen Protagonisten am Tag |
 | 08:30 | Treffen mit Elias |
 | 08:45–09:45 | Weg zum Auto, Kaffee am Späti (für sich und Florian), einsteigen, losfahren. Im Film unter Off-Stimme |
 | 09:45–10:15 | Fahrt zum Jobcenter |
@@ -36,10 +36,10 @@ https://claude.ai/artifact/3Sy4WwEZDpWdTZhW1JSiXR
 | 15:00–15:30 | Fahrt zum Studio |
 | 15:30 | Ankunft Noel, **Studios 301**, Hanauer Landstraße 172 |
 | 15:30–16:00 | Setup Studio |
-| 16:00–17:00 | Ilo zeigt Florian das Studio, Foto mit Goldener Schallplatte, Rappen |
+| 16:00–17:00 | Ilo zeigt Florian das Studio, Foto mit Goldener Schallplatte (hängt im Studio), Rappen, Verabschiedung Florian/Elias mit Gimbal vor dem Interview-Setup |
 | 17:00–17:30 | **Interview Florian** |
 | 17:30–18:00 | **Interview Ilo** (auch Off-Ton für den Anfang) |
-| 18:00–18:30 | Abbau Studio (vorher Verabschiedung Florian/Elias drehen) |
+| 18:00–18:30 | Abbau Studio |
 | 18:30–19:00 | Fahrt in die Innenstadt, Eric im Auto |
 | 19:00 | Ankunft Kumpels |
 | 19:00–19:45 | B-Roll Innenstadt: Ampel, Skyscraper |
@@ -74,7 +74,7 @@ er am meisten aus sich rausgehen, bis dahin ist er aufgetaut.
 | Punkt | Stand |
 | --- | --- |
 | **Auto** | Elias fährt seinen **BMW** |
-| **Studio** | **Studios 301**, Hanauer Landstraße 172, 16–19 Uhr, 250 € für drei Stunden ([Pana 11.11.](korrespondenz/2026-11-11-salem-zusage-drehtag-studio.md)). ⚠️ Ob Elias' Schallplatte dort hängt, ist unbestätigt, deshalb bringt er sie mit |
+| **Studio** | Ansprechpartner **Leo**, 0172 4353614. **Studios 301**, Hanauer Landstraße 172, 16–19 Uhr, 250 € für drei Stunden ([Pana 11.11.](korrespondenz/2026-11-11-salem-zusage-drehtag-studio.md)). Elias' Goldene Schallplatte hängt dort (laut Elias) |
 | **Florian** | Flexpreis-Ticket: hin 07:27 ab Nörten-Hardenberg, zurück 19:46 ab Frankfurt Hbf |
 | **Elias' Hotel** | Pana rechnet mit 150–200 € für eine Nacht, ROCC bucht auf Wunsch (Hampton by Hilton). ⚠️ Ob Elias übernachtet, unbestätigt |
 

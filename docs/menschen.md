@@ -36,6 +36,7 @@ wollte es immer, hat sich nie getraut, hatte das Gefühl, nie etwas durchzuziehe
 | Auftritte | keine bis März 2027 | Briefing |
 | Wohnort | zwischen Frankfurt und Northeim | Pana im Call 05.11. |
 | Auto | BMW | Elias im Call 05.11. |
+| Leistungsbezug | **heute raus** | von Lukas geprüft, 24.11.2026 |
 
 **Der Kern für den Film: das Vertrauensverhältnis.** Florian hat ihm „den Rücken
 freigehalten", Elias hat ihn immer auf dem Laufenden gehalten. Beide beschreiben offene,

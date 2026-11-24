@@ -13,8 +13,8 @@ Erledigte Punkte wandern in die zugehörige Fachdatei. To-dos für Lukas zusätz
 
 | # | Punkt | Bei wem | Stand |
 | --- | --- | --- | --- |
-| 4 | **Einverständnis von Elias** (Sozialdatenschutz) unterschrieben? Sonst darf Florian nicht offen über die Betreuung sprechen | Chris → Elias | ⚠️ Stand unbekannt |
-| 8 | **Musikfreigabe** schriftlich für alle Skizzen/Beats im Film (Sascha: „SEHR WICHTIG"); Skizzen sollten bis Mo 23.11. an Lukas | Elias, Pana | ⚠️ Stand unbekannt |
+| 4 | **Bildrechte-Einwilligungen** von allen Protagonisten (und Erkennbaren) am Drehtag unterschreiben lassen, 10 Stück drucken. ⚠️ Ob es zusätzlich eine Sozialdatenschutz-Einwilligung gibt, unklar | Lukas | 25.11. |
+| 8 | **Musikfreigabe** schriftlich für alle Skizzen/Beats im Film (Sascha: „SEHR WICHTIG") — gibt es noch nicht, wird **im Nachgang** eingeholt, vor dem Schnitt-Export | Lukas, Pana | nach dem Dreh |
 | 6a | **Rückmeldung zum Leitfaden** (Tabu-Themen) von Pana/Elias — keine in Gmail gefunden | Pana | vor Ort kurz fragen |
 
 ## 🟡 Zu klären, aber nicht blockierend
@@ -22,7 +22,6 @@ Erledigte Punkte wandern in die zugehörige Fachdatei. To-dos für Lukas zusätz
 | # | Punkt | Bei wem |
 | --- | --- | --- |
 | 9 | **Kernbotschaft:** Sascha hat zu Chris' Vorschlag vom 03.11. nicht ausdrücklich Stellung genommen (die Fragen zu Terminen und Leistungsminderung hat er am 06.11. beantwortet, siehe [heikle Themen](gespraechsfuehrung.md#heikle-themen)) | Sascha Kummer |
-| 10 | **Leistungsbezug von Elias heute** — unter vier Augen mit Florian oder Elias, nie vor Management/nh. Dass er 2023 Hartz IV bezog, hat er im ARD-Interview selbst gesagt | Lukas oder Chris |
 | 11 | **Fotos** von Elias: Wohngegend und Studio mit Schallplatte | Elias |
 | 13 | **Vorgespräch Florian** fand am 18.11. statt — Notizen fehlen im Repo | Lukas |
 | 14 | **Panas 100-Fragen-Katalog** an Chiara | Pana |

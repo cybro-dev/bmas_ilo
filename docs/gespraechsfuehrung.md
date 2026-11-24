@@ -26,18 +26,19 @@ laufen lassen.
 
 1. Wie habt ihr euch kennengelernt, wie war der erste Eindruck voneinander?
 2. Was war der Plan, bevor das mit dem Rappen losging? Wie kam es zum Führerschein?
-3. Wann hat Elias Florian erzählt, dass er da hin will, und was hielt Florian im ersten
+3. Weißt du noch, wie der Tag war, als du die Prüfung bestanden hast?
+4. Wann hat Elias Florian erzählt, dass er da hin will, und was hielt Florian im ersten
    Moment davon?
-4. Elias fragt Florian: Ab wann hast du geglaubt, dass das ein gangbarer Weg für mich ist?
-5. An Florian: Gab es Widerstände im Jobcenter, oder hast du dich weit aus dem Fenster gelehnt?
-6. Das Verhältnis: Elias, wie hast du Florian damals beim Jobcenter gesehen?
-7. Das Versprechen: Elias hat gesagt, mit der Goldenen Schallplatte kommt er vorbei und macht
+5. Elias fragt Florian: Wann hast du geglaubt, dass das funktionieren könnte?
+6. An Florian: Gab es Widerstände im Jobcenter, oder hast du dich weit aus dem Fenster gelehnt?
+7. Das Verhältnis: Elias, wie hast du Florian damals beim Jobcenter gesehen?
+8. Das Versprechen: Elias hat gesagt, mit der Goldenen Schallplatte kommt er vorbei und macht
    ein Foto mit Florian. Was hat Florian damals gedacht?
-8. Gab es Dinge, die nicht optimal gelaufen sind? (Rahmen: [heikle Themen](#heikle-themen))
+9. Gab es Dinge, die nicht optimal gelaufen sind? (Rahmen: [heikle Themen](#heikle-themen))
 
 **Studio (16:00–17:00):** Begrüßung mit Noel, Goldene Schallplatte, Foto. Ilo zeigt Skizzen,
-Florian hört zu, ist interessiert, vielleicht stolz. **Verabschiedung Florian/Elias drehen**,
-sonst ist Florian im Film einfach weg.
+Florian hört zu, ist interessiert, vielleicht stolz, rappt vielleicht ein bisschen mit.
+**Verabschiedung Florian/Elias** mit Gimbal, bevor die Interviews eingerichtet werden.
 
 **Interview Florian (17:00–17:30):**
 
@@ -48,14 +49,14 @@ sonst ist Florian im Film einfach weg.
 4. Welche Rolle spielt das Klima im Jobcenter? Ging es nur mit Rückendeckung der Vorgesetzten?
 
 **Interview Ilo (17:30–18:00):** Für den Anfang: sich vorstellen (Name, Künstlername,
-Herkunft), das Leben vor dem Rappen, Alltag, wie er sich selbst gesehen hat. Für das Ende: ein
+Herkunft), das Leben vor dem Rappen, Alltag, wie er sich selbst gesehen hat, welche Rolle
+Musik damals schon gespielt hat (einzelne Fragen). Für das Ende: ein
 Team um sich haben, der Umzug nach Frankfurt, Leute, die von ihm abhängen, der Blick zurück auf
 Florian, was er einem jungen Menschen im Jobcenter heute sagen würde.
 
 **Claudes Ergänzungen (im Doc):** Florian muss „Jobcenter Landkreis Northeim" sagen (Saschas
-Bedingung), also Vorstellung als erste Interviewfrage. Musikfreigabe schriftlich. Optional
-Führerschein-Anker (Tag der Prüfung, „Bisou", 50 Euro). Leistungsbezug unter vier Augen beim
-Lunch. Erkennbare Kumpels brauchen eine Einwilligung zur Bildnutzung.
+Bedingung), also Vorstellung als erste Interviewfrage. Optional Führerschein-Anker („Bisou",
+50 Euro). Wortwahl „Leistungen"/„Menschen". Erkennbare Kumpels brauchen eine Einwilligung zur Bildnutzung.
 
 ---
 
@@ -112,6 +113,10 @@ dies auch befördert." → **Darf ins Gespräch**, ehrlich, mit dem Dranbleiben 
 und Vertrauen als Pointe. Chris hat zugesagt, das genau so in den Leitfaden zu nehmen.
 
 ### Leistungsbezug von Elias
+
+✅ **Geklärt (24.11.2026): Elias ist heute aus dem Leistungsbezug raus.** Darf als „steht auf
+eigenen Beinen" erzählt werden; Details/Zahlen trotzdem nicht in den Film.
+
 
 Ob Elias heute **ganz aus dem Leistungsbezug raus** ist, ist für die Botschaft wichtig
 („steht auf eigenen Beinen"). **Nie vor Management oder neues handeln fragen.** Unter vier
