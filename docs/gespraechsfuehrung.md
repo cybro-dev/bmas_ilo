@@ -27,14 +27,16 @@ laufen lassen.
 1. Wie habt ihr euch kennengelernt, wie war der erste Eindruck voneinander?
 2. Was war der Plan, bevor das mit dem Rappen losging? Wie kam es zum Führerschein?
 3. Weißt du noch, wie der Tag war, als du die Prüfung bestanden hast?
-4. Wann hat Elias Florian erzählt, dass er da hin will, und was hielt Florian im ersten
+4. Elias, wie wichtig war der Führerschein für deinen Weg als Rapper? Ziel: von ihm hören, dass er
+   erst mit dem Auto mobil war und zu den Castings fahren konnte. Roter Faden, ruhig nachhaken.
+5. Wann hat Elias Florian erzählt, dass er da hin will, und was hielt Florian im ersten
    Moment davon?
-5. Elias fragt Florian: Wann hast du geglaubt, dass das funktionieren könnte?
-6. An Florian: Gab es Widerstände im Jobcenter, oder hast du dich weit aus dem Fenster gelehnt?
-7. Das Verhältnis: Elias, wie hast du Florian damals beim Jobcenter gesehen?
-8. Das Versprechen: Elias hat gesagt, mit der Goldenen Schallplatte kommt er vorbei und macht
+6. Elias fragt Florian: Wann hast du geglaubt, dass das funktionieren könnte?
+7. An Florian: Gab es Widerstände im Jobcenter, oder hast du dich weit aus dem Fenster gelehnt?
+8. Das Verhältnis: Elias, wie hast du Florian damals beim Jobcenter gesehen?
+9. Das Versprechen: Elias hat gesagt, mit der Goldenen Schallplatte kommt er vorbei und macht
    ein Foto mit Florian. Was hat Florian damals gedacht?
-9. Gab es Dinge, die nicht optimal gelaufen sind? (Rahmen: [heikle Themen](#heikle-themen))
+10. Gab es Dinge, die nicht optimal gelaufen sind? (Rahmen: [heikle Themen](#heikle-themen))
 
 **Studio (16:00–17:00):** Begrüßung mit Noel, Goldene Schallplatte, Foto. Ilo zeigt Skizzen,
 Florian hört zu, ist interessiert, vielleicht stolz, rappt vielleicht ein bisschen mit.
