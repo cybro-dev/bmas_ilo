@@ -14,137 +14,48 @@ neues handeln ([Beleg mit PDF-Text](korrespondenz/2026-11-17-wieczorek-leitfaden
 
 ## Gesprächsliste Drehtag Mi 25.11.2026
 
-Lukas' Arbeitsfassung, sortiert nach dem [Drehplan](korrespondenz/2026-11-20-wieczorek-drehplan-25-11.md).
-Die Fragen aus dem verschickten Leitfaden plus das, was wir aus Interviews und Calls wissen.
-**Nicht abarbeiten:** Wenn es läuft, laufen lassen. Lieber zwei Themen tief als acht abgehakt.
+**Lukas' Fassung vom 24.11. abends, die zählt.** Der verschickte Leitfaden ist nur noch
+Kontext. Als Spickzettel fürs iPad (mit Timetable, Kontakten und Claudes Ergänzungen):
+https://claude.ai/artifact/3Sy4WwEZDpWdTZhW1JSiXR. Zeiten: [Drehtag](drehtag.md).
 
-**Vor Drehbeginn checken:** Elias' **Einverständniserklärung** unterschrieben (sonst darf
-Florian nicht offen über die Betreuung sprechen) · **Musikfreigabe** schriftlich ·
-Musikskizzen da (sollten bis Mo 23.11. an Lukas) · **Goldene Schallplatte** dabei.
+**Aufbruch (08:45–10:15):** nur Bild, unter Off-Stimme aus Ilos Interview. Elias geht aus dem
+Haus, holt am Späti Kaffee für sich und Florian, fährt los. Begrüßung am Jobcenter echt
+laufen lassen.
 
-**Für alle Gespräche:**
+**Gespräch im Auto (12:30–14:00):**
 
-- **Konkrete Anker statt abstrakter Fragen.** Elias erzählt lang, wenn er einen Tag, einen
-  Ort oder einen Gegenstand bekommt. „Was bedeutet Vertrauen?" läuft bei ihm ins Leere.
-- **Bei Einzel-Statements in ganzen Sätzen antworten lassen**, die Frage in der Antwort
-  aufgreifen, damit es als Off-Ton funktioniert.
-- **Wortwahl:** „Leistungen" statt „Bürgergeld", „Menschen" statt „Kunden". Kein Albumtitel.
-- **Florian darf Elias Fragen stellen.** Im Auto ist das besser als jeder Impuls von Lukas.
+1. Wie habt ihr euch kennengelernt, wie war der erste Eindruck voneinander?
+2. Was war der Plan, bevor das mit dem Rappen losging? Wie kam es zum Führerschein?
+3. Wann hat Elias Florian erzählt, dass er da hin will, und was hielt Florian im ersten
+   Moment davon?
+4. Elias fragt Florian: Ab wann hast du geglaubt, dass das ein gangbarer Weg für mich ist?
+5. An Florian: Gab es Widerstände im Jobcenter, oder hast du dich weit aus dem Fenster gelehnt?
+6. Das Verhältnis: Elias, wie hast du Florian damals beim Jobcenter gesehen?
+7. Das Versprechen: Elias hat gesagt, mit der Goldenen Schallplatte kommt er vorbei und macht
+   ein Foto mit Florian. Was hat Florian damals gedacht?
+8. Gab es Dinge, die nicht optimal gelaufen sind? (Rahmen: [heikle Themen](#heikle-themen))
 
-### 1 · Elias allein, Wohnstraße · 08:45–09:45
+**Studio (16:00–17:00):** Begrüßung mit Noel, Goldene Schallplatte, Foto. Ilo zeigt Skizzen,
+Florian hört zu, ist interessiert, vielleicht stolz. **Verabschiedung Florian/Elias drehen**,
+sonst ist Florian im Film einfach weg.
 
-*Ziel: die Vorher-Sätze. Einmal im Gehen erzählt, einmal stumm für den Off-Ton.*
+**Interview Florian (17:00–17:30):**
 
-- Wie sah ein ganz normaler Tag aus, bevor es mit der Musik losging?
-- Was hast du dir damals selbst zugetraut?
-- Wie bist du zum Jobcenter gekommen, und mit welchem Gefühl bist du hingegangen?
-- Wann kam der Gedanke: Vielleicht kann ich Musik machen, die ich selbst hören würde?
+1. Wie fühlt es sich an, Elias so zu sehen? Was geht dir durch den Kopf, wenn er rappt?
+2. Was würdest du Kolleginnen und Kollegen mitgeben, die einen jungen Menschen betreuen, der
+   Rapper werden will? Es ist ja nicht das erste Mal.
+3. Welche Rolle spielt das Bauchgefühl?
+4. Welche Rolle spielt das Klima im Jobcenter? Ging es nur mit Rückendeckung der Vorgesetzten?
 
-Sätze, die er schon gesagt hat (nicht vorgeben, nur die Tür aufmachen): *„Ich war mein ganzes
-Leben Dekoration."* · *„Frührente mit Mitte 20."*
-⚠️ Morgens ist er noch kalt. Die starken Off-Sätze kommen eher abends in Block 7, also hier
-nicht zu lange bohren. Kindheit und Privates sind laut Leitfaden kein Thema.
+**Interview Ilo (17:30–18:00):** Für den Anfang: sich vorstellen (Name, Künstlername,
+Herkunft), das Leben vor dem Rappen, Alltag, wie er sich selbst gesehen hat. Für das Ende: ein
+Team um sich haben, der Umzug nach Frankfurt, Leute, die von ihm abhängen, der Blick zurück auf
+Florian, was er einem jungen Menschen im Jobcenter heute sagen würde.
 
-### 2 · Elias allein im Auto zum Jobcenter · 10:30–11:00
-
-*Ziel: Vorfreude vor dem Wiedersehen, das Auto als sein Ort.*
-
-- Wann hast du Florian zuletzt gesehen?
-- Was glaubst du, was er sagt, wenn er dich jetzt fahren sieht?
-- Wie viel bist du so unterwegs? (Hunderte Kilometer pro Woche, das Auto ist sein Alltag)
-- **Führerschein als Bild:** zeigen oder aufs Armaturenbrett legen? Nur wenn Elias will, die
-  Daten ggf. im Schnitt unkenntlich machen.
-
-### 3 · Abholen am Jobcenter Nord · 11:00–11:30
-
-**Keine Fragen.** Florian kommt raus, Begrüßung echt laufen lassen. Die Kameras im Auto laufen
-schon beim Einsteigen: Der erste Satz ist oft der beste. Mitarbeitende und Besucher nicht
-erkennbar filmen, Schilder mit Frankfurt oder Hessen möglichst vermeiden.
-
-### Mittagspause · 11:30–12:15 (nicht vor der Kamera)
-
-- **Unter vier Augen mit Florian:** Ist Elias heute ganz aus dem Leistungsbezug raus?
-  ([offener Punkt #10](offene-punkte.md)) Nie vor Pana.
-- **Mit Elias klären:** Welche Fahrt war die erste mit Führerschein? Nach Stuttgart kam er mit
-  dem Zug. Und: Was spielt er Florian im Studio vor?
-- Florian sagen, dass er Elias selbst fragen darf. Das nimmt ihm den Druck.
-
-### 4 · Das Autogespräch · 12:15–13:45 ⭐
-
-*Ziel: die gemeinsame Geschichte, die sie sich gegenseitig erzählen. Nach etwa 10 Minuten
-Stopp zur Bildkontrolle, dort den nächsten Impuls setzen. Impulse nur in Fahrpausen geben.*
-
-1. **Das erste Treffen.** Wie war das 2022, erster Eindruck von beiden Seiten? Elias: Wie war
-   es im Jobcenter, bevor du Florian kanntest?
-2. **Was nicht gepasst hat.** Bau, Praktikum, Coaching. (Fisch, der schwimmen soll / Vogel)
-   Impuls, der beide öffnet: *„Was hätte passieren müssen, damit ihr euch nicht versteht?"*
-3. **Der Führerschein, der rote Faden.**
-   - Wofür war er ursprünglich gedacht? (Umschulung, Servicefahrer)
-   - *„Weißt du noch, der Tag, an dem du bestanden hast?"* (der rote Zettel, der erste Anruf
-     bei Noel)
-   - Mit welchem Song bist du zur ersten Runde? In Rap La Rue, Runde 1, war es **„Bisou"**
-     ([Rap La Rue](rap-la-rue.md)).
-   - Florian: Warum hast du diesen Weg unterstützt?
-4. **Die 50 Euro.** Der letzte Schein für die Anmeldegebühr. Florian: Hast du das damals gewusst?
-5. **Wenn mal was nicht geklappt hat.** Versäumte Termine, die Leistungsminderung. Das darf
-   rein (Sascha, 06.11.): Elias selbstkritisch (*„Ich komm echt zu spät, ich hasse mich
-   dafür"*), Florian erzählt, wie er drangeblieben ist und nach den Gründen gefragt hat.
-   Die Pointe sind Ehrlichkeit und Vertrauen. Kein Freifahrtschein, keine böse Behörde, den
-   früheren Berater nicht schlechtmachen → [heikle Themen](#heikle-themen).
-6. **Der Moment, in dem es easy wurde.** Wann habt ihr gemerkt: Jetzt läuft's? (Wunsch von nh)
-7. **Was der andere anders gemacht hat.** Florian: Was hast du in Elias gesehen? Elias: Was hat
-   Florian anders gemacht?
-8. **Wie Florian mitbekommen hat, was aus Elias wurde.** TikTok, Charts, Gold?
-9. **Überleitung:** Wo fahren wir eigentlich hin? → Studio.
-
-⚠️ Pfand, Limetten, Jugendherberge: wenn es aufkommt, nicht abwürgen, im Schnitt raus. Keine
-Zahlen zu Leistungen und keine Akten-Details.
-
-### 5 · Fahrt ohne Lukas, Eric mit Handkamera · 13:45–14:30
-
-*Ziel: Details, Reaktionen, Lockerheit. Ein, zwei leichte Themen mitgeben:*
-
-- Florian fragt Elias nach dem Rapper-Leben: erkannt werden, Fans, wie ein Studiotag aussieht.
-- Was läuft bei dir im Auto?
-- ⚠️ Die Skizze für das Studio **nicht** im Auto vorspielen, die brauchen wir für den Schluss.
-
-### 6 · Studio gemeinsam · 16:30–17:30
-
-*Ziel: der Schlusspunkt, also Florians Reaktion auf die Skizze.*
-
-- Elias zeigt Florian das Studio und stellt den Produzenten vor (vermutlich **Noel**). Die
-  beiden, die an ihn geglaubt haben, einer vom Amt, einer aus der Musik: Ein Blick zwischen
-  ihnen kann ein Bild sein.
-- **Goldene Schallplatte:** Florian in die Hand geben, Elias erklärt, wofür sie ist
-  („Pistoleta"). Danach das Foto.
-- **Skizze vorspielen. Kamera auf Florian, nicht auf die Boxen.** Kein Freestyle-Druck, Elias
-  ist nach eigener Aussage kein Freestyler. Florian ans Mikro nur, wenn er will, dann als
-  Ad-lib.
-- Elias: Wie sieht dein Leben heute aus? Früher hattest du nichts zu verlieren. Was hat sich
-  verändert, seit Leute auf dich setzen? (Respekt und Verantwortung)
-- Florian: Wie ist es, Elias hier zu sehen?
-
-⚠️ Albumtitel und Cover dürfen nicht im Bild sein: Bildschirme, Whiteboards und Poster checken.
-
-### 7 · Einzelinterviews und Statements · 17:30–18:30
-
-**Florian zuerst.** Sein Drehschluss ist 18:30, der Zug geht 19:46.
-
-- Was macht für dich gute Begleitung im Jobcenter aus? (auf den Menschen schauen)
-- Was hast du damals in Elias gesehen, das in keinem Formular stand?
-- Momente aus dem Auto noch einmal allein: *„Erzähl mir nochmal, wie das war, als …"*
-- Was können andere Jobcenter aus eurer Geschichte lernen? (Wunsch von nh)
-- Was hat Elias' Geschichte für dich besonders gemacht?
-
-**Elias**, kurze Sätze, die als Off-Ton funktionieren, auch im Empfangsbereich:
-
-- Woher kommt heute dein Antrieb? (*„Die Musik hat mir einen Antrieb gegeben."*)
-- Viele junge Leute haben ein schlechtes Bild vom Jobcenter. Was sagst du ihnen?
-  (*„Vielleicht ist es der Anfang."*)
-- „Jeder hat ein Talent." Was meinst du damit?
-- Du kommst aus Northeim. Welche Rolle hat das Jobcenter auf dem Weg nach Frankfurt gespielt?
-- Ein Satz an dein jüngeres Ich.
-- Die Vorher-Fragen aus Block 1 noch einmal, jetzt wo er warm ist.
+**Claudes Ergänzungen (im Doc):** Florian muss „Jobcenter Landkreis Northeim" sagen (Saschas
+Bedingung), also Vorstellung als erste Interviewfrage. Musikfreigabe schriftlich. Optional
+Führerschein-Anker (Tag der Prüfung, „Bisou", 50 Euro). Leistungsbezug unter vier Augen beim
+Lunch. Erkennbare Kumpels brauchen eine Einwilligung zur Bildnutzung.
 
 ---
 

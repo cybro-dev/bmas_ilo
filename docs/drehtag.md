@@ -15,27 +15,37 @@ Die Gespräche pro Block: [Gesprächsliste](gespraechsfuehrung.md#gesprächslist
 
 ---
 
-## Ablauf Mi 25.11. (Richtwerte, Lukas steuert)
+## Ablauf Mi 25.11. (Stand 24.11. abends, von Lukas)
 
-| Zeit | Was | Ort |
-| --- | --- | --- |
-| 07:45 | Abfahrt Crew vom Hotel | |
-| 08:30 | Treffen mit Elias | Ruhige Wohnstraße nahe Jobcenter Nord (nach Scouting) |
-| 08:45–09:45 | **Elias allein:** Weg zum Auto, kurze Statements, Gimbal | Wohnstraße |
-| 09:44 | Florian kommt am Hbf an, U-Bahn/Taxi zum Jobcenter (ca. 30 min) | |
-| 09:45–10:30 | Car Rigging | Wohnstraße |
-| 10:30–11:00 | Elias allein im Auto zum Jobcenter | unterwegs |
-| 11:00–11:30 | **Abholen:** Florian kommt raus, Begrüßung, steigt ein | **Jobcenter Frankfurt Nord**, Emil-von-Behring-Str. 10a, nur außen |
-| 11:30–12:15 | Mittagspause | nahe Jobcenter |
-| 12:15–13:45 | **Autogespräch** auf fester Strecke, nach ca. 10 min Stopp zur Bildkontrolle | Fahrstrecke (nach Scouting) |
-| 13:45–14:30 | Fahrt ohne Lukas, Eric mit Handkamera; Ankunft Studio, Vorbeifahrten | Strecke, Studio |
-| 14:30–16:00 | Stadt-B-Roll mit Elias (Gimbal, Zeitlupe, Skyline, Main), Florian hat Pause | Innenstadt |
-| 16:00–16:30 | Aufbau Studio | |
-| 16:30–17:30 | **Studio:** Elias zeigt Florian alles, Skizze, ggf. Rap-Moment, **Foto mit Goldener Schallplatte** | **Studios 301**, Hanauer Landstraße 172, gebucht 16–19 Uhr, 250 € |
-| 17:30–18:30 | **Einzelinterviews** Elias und Florian, Statements Elias (auch Empfangsbereich) | Studio |
-| 18:30 | Drehschluss Florian → Hbf, Zug 19:46 | |
-| 18:30–19:00 | Abbau | |
-| optional | Nachtaufnahmen mit Elias in der Stadt | Innenstadt |
+Ersetzt die Zeiten aus dem Drehplan vom 20.11. Spickzettel für den Dreh als Claude-Doc:
+https://claude.ai/artifact/3Sy4WwEZDpWdTZhW1JSiXR
+
+| Zeit | Was |
+| --- | --- |
+| vor 08:30 | Einverständniserklärung im Hotel drucken, Catering fürs Auto besorgen |
+| 08:30 | Treffen mit Elias |
+| 08:45–09:45 | Weg zum Auto, Kaffee am Späti (für sich und Florian), einsteigen, losfahren. Im Film unter Off-Stimme |
+| 09:45–10:15 | Fahrt zum Jobcenter |
+| 10:15 | Ankunft Florian, **Jobcenter Frankfurt Nord**, Emil-von-Behring-Str. 10a (nur außen) |
+| 10:15–11:00 | Begrüßung |
+| 11:00–11:30 | Umzug zum Lunch |
+| 11:30–12:00 | Lunch |
+| 12:00–12:30 | Rigging |
+| 12:30–14:00 | **Gespräch im Auto** |
+| 14:00–15:00 | B-Roll im Auto |
+| 15:00–15:30 | Fahrt zum Studio |
+| 15:30 | Ankunft Noel, **Studios 301**, Hanauer Landstraße 172 |
+| 15:30–16:00 | Setup Studio |
+| 16:00–17:00 | Ilo zeigt Florian das Studio, Foto mit Goldener Schallplatte, Rappen |
+| 17:00–17:30 | **Interview Florian** |
+| 17:30–18:00 | **Interview Ilo** (auch Off-Ton für den Anfang) |
+| 18:00–18:30 | Abbau Studio (vorher Verabschiedung Florian/Elias drehen) |
+| 18:30–19:00 | Fahrt in die Innenstadt, Eric im Auto |
+| 19:00 | Ankunft Kumpels |
+| 19:00–19:45 | B-Roll Innenstadt: Ampel, Skyscraper |
+| 19:45–20:15 | Ilo auf der Brücke |
+
+Florians Zug zurück: 19:46 ab Frankfurt Hbf.
 
 **Gut zu wissen (aus dem Drehplan):** Das Jobcenter Nord ist mittwochs für Besucher
 geschlossen, vor Ort ist Pressesprecherin **Antonietta Pietroluongo**. Schriftzüge mit
